@@ -1,0 +1,2585 @@
+Element             Isotope             E(level)       T_1/2           I                  Q(b)                Ref._Std.   Method   NSR_Keynumber      Journal_reference
+
+Hydrogen            Efg at the deuterium nucleus calculated for HD and D2                                                            2010Pa42       PR A81 042526 (2010)
+
+"Reference isotope   1 H 2                    0          stable           1+             +0.0028578(3)                        MB,R      1958Qu02         PR 112 1929 (19)"
+2010Pa42       PR A81 042526 (2010)
+
+Lithium             Efg at Li in the LiH molecule
+
+3 Li 6                 0          stable           1+             -0.000806(6)              [Li7]      MB        2005Bo45       PR C72 044309 (2005)
+1998Ce04        PR A57 2539 (1998)
+
+Reference isotope   3 Li 7                 0          stable          3/2-              -0.0400(3)                         MB        2008Py02      Mol Phys 106 1965 (2008)
+1998Ce04        PR A57 2539 (1998)
+
+3 Li 8                 0          840 ms           2+              +0.0314(2)               [Li7]     β-NMR      2005Bo45        PR C72 044309 (2005)
+
+3 Li 9                 0          178 ms          3/2-              -0.0304(2)              [Li7]     β-NMR      2011Av08      J Phys G 38 075102 (2011)
+
+3 Li 11                0         8.75 ms          3/2-             (-)0.0333(5)             [Li7]     β-NMR      2008Ne11       PRL 101 132502 (2008)
+
+Berylium            Calculation of the quadrupole coupling constant for the 3P2 state of the Be atom
+
+Reference isotope   4 Be 9                 0          stable          3/2-             +0.0529(4)                           AB       1991Su05         CPL 177 91 (1991)
+
+4 Be 10              3368        0.125 ps          2+                -0.08(7)                          CER       2012Or05        PR C86 041303 (2012)
+
+Boron               Calculation of the quadrupole coupling constant of the 2P3/2 ground state of the B atom
+
+5 B 8                    0           0.77 s           2+              +0.0643(14)             [11B]      β-NQR      2006Su13        PR C74 024327 (2006)
+
+5 B 10                 0          stable           3+              +0.0846(2)              [11B]        AB       2008Py02/1970Ne21       Mol Phys 106 1965 (2008)/PR A2 1208 (1970)
+        
+
+Reference isotope   5 B 11                 0          stable          3/2-            +0.04059(10)                          AB       2008Py02      Mol Phys 106 1965 (2008)
+1970Ne21         PR A2 1208 (1970)
+
+5 B 12                 0         20.2 ms           1+               0.0132(3)              [11B]      β-NMR      1992Mi18         PRL 69 2058 (1992)
+
+5 B 13                 0         17.3 ms          3/2-             (+)0.0365(8)            [11B]      β-NMR      2004Na38        NP A746 509c (2004)
+
+5 B 14                 0         12.5 ms           2-               0.0297(8)              [11B]      β-NMR       1996Iz01        PL B366 51 (1996)
+
+5 B 15                 0          9.9 ms          3/2-             0.0379(11)              [11B]      β-NMR       1996Iz01        PL B366 51 (1996)
+
+5 B 17                 0          5.1 ms         (3/2-)            0.0385(15)              [11B]      β-NMR      2003Og03        PR C67 064308 (2003)
+
+Carbon              Calculation of the quadrupole coupling constant of the 3P2 state of the C atom
+
+Reference isotope   6 C 11                 0          20.4 m          3/2-              0.0333(2)                           AB       2008Py02/1969Sc34      Mol Phys 106 1965 (2008)/PR 181 137 (1969)
+         
+
+
+19
+                    6 C 12              4438           45 fs           2+                  +0.06(3)         [11C]        CER    1983Ve01      PL B122 23 (1983)
+
+Nitrogen            Calculation of the quadrupole coupling constant of the 1P1 state of the N+ ion
+
+7 N 12                0           11.0 ms          1+                 +0.0100(9)        [14N]       β-NMR   1998Mi10      PL B420 31 (1998)
+
+Reference isotope   7 N 14                0           stable           1+                +0.02044(3)                    AB/MS   2008Py02/1997To06    Mol Phys 106 1965 (2008)/CPL 265 60 (1997)
+     
+
+7 N 16                0            7.13 s          2-                 (-)0.018(2)       [14N]       β-NMR   2001Ma42      PRL 86 3735 (2001)
+
+7 N 18                0           624 ms           1-                (+)0.0123(12)      [14N]       β-NMR   1999Og03      PL B451 11 (1999)
+
+
+
+
+Oxygen              Calculation of the quadrupole coupling constant of the 3P2 state of the O atom
+
+8 O 13                0           8..6 ms         3/2-                0.0111(8)         [17O]       β-NQR   1999Ma46      PL B459 81 (1999)
+
+Reference isotope   8 O 17                0           stable          5/2+                -0.0256(2)                    R/EPR   2018Py01/1969Sc34   Mol Phys 116 1328 (2018)/ PR 181 137 (1969)
+     
+
+8 O 18              1982          1.94 ps          2+                  -0.036(9)        [17O]        CER    1983Gr28     NP A411 329 (1983)
+
+8 O 19                0            26.9 s         5/2+               0.00362(13)        [17O]       β-NMR   1999Mi16       PL B457 9 (1999)
+
+Fluorine            Calculation of the quadrupole coupling constant of the F2 molecule
+
+9 F 17                0            64.5 s         5/2+                 0.076(4)      [19F197keV]   β-NMR   1974Mi21     NP A236 415 (1974)
+
+9 F 18              1121          162 ns           5+                  0.071(6)      [19F197keV]   β-NMR   1974Mi21     NP A236 415 (1974)
+
+Reference isomer    9 F 19               197          89.3 ns         5/2+                -0.0942(9)                     PAC    2008Py02   Mol Phys 106 1965 (2008)
+
+9 F 20                0            11.1 s          2+                  0.056(4)      [19F197keV]   β-NMR   1974Mi21     NP A236 415 (1974)
+
+9 F 21                0            4.16 s         5/2+                 0.011(2)      [19F197keV]   β-NMR   1999Mb13    HFI 120/121 673 (1999)
+
+9 F 22                0            4.23 s          4+                  0.003(2)      [19F197keV]   β-NMR   2010Mi13     NP A834 75c (2010)
+
+Neon                Calculation of the quadrupole coupling constant of the 3P2 state of the Ne atom
+
+10 Ne 20            1634          0.73 ps          2+                  -0.23(3)                      CER    1981Sp07      PRep 73 369 (1981)
+
+Reference isotope   10 Ne 21              0           stable          3/2+                +0.1016(8)                    O/AB    2018Py01/1972Du06   Mol Phys 116 1328 (2018)/ PR A5 1036(1972)
+     
+
+10 Ne 22            1275          3.6 ps           2+                 -0.215(12)                     CER    2018He12      PL B782 468 (2018)
+
+10 Ne 23              0            37.2 s         5/2+                0.145(13)        [21Ne]       CFBLS   2005Ge06    PR C71 064319 (2005)
+
+
+
+20
+Sodium              Calculation of the quadrupole coupling constant of the 3P state of the Na atom
+
+11 Na 20              0           0.448 s          2+               +0.101(8)       [23Na]     β-NMR       2009Mi04      PL B672 120 (2009)
+
+11 Na 21              0           22.5 s          3/2+              0.138(11)       [23Na]     β-NMR       2009Mi04      PL B672 120 (2009)
+
+11 Na 22              0           2.60 y           3+              +0.180(11)       [23Na]     β-NMR       1998Ga44   Eur Phys J A3 313 (1998)
+
+Reference isotope   11 Na 23              0           stable          3/2+              +0.104(1)                    O         2008Py02/2006Da14   Mol Phys 106 1965 (2008)/J Phys B 39 3111 (2006)
+    
+
+11 Na 25              0           59.1 s          5/2+              0.0015(3)       [23Na]     β-NMR       2004Og13      HFI 159 235 (2004)
+
+11 Na 26              0           1.07 s           3+               -0.0053(2)      [23Na]   CFBLS/β-NMR   2000Ke09    Eur Phys J A8 31 (2000)
+
+11 Na 27              0           0.30 s          5/2+              -0.0071(3)      [23Na]   CFBLS/β-NMR   2000Ke09    Eur Phys J A8 31 (2000)
+
+11 Na 28              0          30.5 ms           1+              +0.389(11)       [23Na]   CFBLS/β-NMR   2000Ke09    Eur Phys J A8 31 (2000)
+
+11 Na 29              0           44 ms           3/2+              +0.085(3)       [23Na]   CFBLS/β-NMR   2000Ke09    Eur Phys J A8 31 (2000)
+
+Magnesium           Calculation of the quadrupole coupling constant of the 3P1 state of the Mg atom
+
+12 Mg 22            1247           2 ps            2+                 -0.4(4)                   CER        2018He12      PL B782 468 (2018)
+
+12 Mg 23              0           11.3 s          3/2+               0.114(3)       [25Mg]     β-NMR       1999Mb13    HFI 120/121 673 (1999)
+
+12 Mg 24            1369          1.33 ps          2+                -0.29(3)                   CER        1990Gr11     PR C42 R471 (1990)
+
+Reference isotope   12 Mg 25              0           stable          5/2+              +0.199(2)                    AB        2008Py02   Mol Phys 106 1965 (2008)
+
+12 Mg 26            1809          476 fs           2+                -0.21(2)                   CER        1991He09     PR C43 2546 (1991)
+
+12 Mg 29              0           1.30 s         3/2+               -0.16(4)       [25Mg]     β-NMR       2019Yo06      HFI 240 67 (2019)
+
+12 Mg 33              0          90.5 ms          3/2-               +0.13(9)       [25Mg]     β-NMR       2019Yo06      HFI 240 67 (2019)
+
+Aluminium           Calculation of the quadrupole coupling constant of the 3P3/2 state of the Al atom
+
+13 Al 25              0           7.18 s          5/2+               0.24(2)        [27Al]     β-NQR       2007Ma94        HFI 180 65 (07)
+
+13 Al 26              0           7x105 y          5+                +0.26(3)       [27Al]      ABLS       1997Le19    JPhys G23 1145 (1997)
+
+Reference isotope   13 Al 27              0           stable          5/2+             +0.1466(10)                   AB        2008Py02/1968Ma23   Mol Phys 106 1965 (2008)/PRS A305 139 (1968)
+    
+
+13 Al 28              0           2.24 m           3+               0.172(12)       [27Al]     β-NMR       1978St31       HFI 4 170 (1978)
+
+13 Al 31              0           644 ms         (5/2+)              0.134(2)       [27Al]     β-NQR       2009De25      PL B678 344 (2009)
+
+
+
+21
+13 Al 32              0            33 ms            1+                0.0255(3)    [27Al]     β-NQR       2018Xu05         PL B782 619 (2018)
+
+13 Al 33              0           41.7 ms         (5/2+)              0.141(3)     [27Al]     β-NQR       2016He09       PR C94 034312 (2016)
+
+13 Al 34              47           26 ms           (1+)               0.038(5)     [27Al]     β-NQR       2018Xu05         PL B782 619 (2018)
+
+Silicon             There is no adopted reference efg for Si.
+A. Efg at Si in Al2O3 estimated from band structure calculations
+
+14 Si 27              0            4.15 s          5/2+               0.063(14)      A        β-NQR       1999Mb13       HFI 120/121 673 (1999)
+
+14 Si 28            1779          0.48 ps           2+                +0.16(3)                  CER       1981Sp07         PRep 73 369 (1981)
+
+14 Si 30            2235          0.22 ps           2+                 -0.05(6)                 CER       1981Sp07         PRep 73 369 (1981)
+
+Phosphorus          There is no adopted reference efg for P.
+A. Calculated efg at P site in α -Al2O3
+
+15 P 28               0           270 ms            3+                0.137(14)      A        β-NQR       2012Zh36   Chin Phys Lett 29 092102 (2012)
+
+
+Sulphur             Calculation of the quadrupole coupling constant at S in molecular CS and SiS.
+A. Efg at S site in FeS2
+
+16 S 32             2230           0.17 ps           2+                 -0.16(2)                 CER       1982Ve09        NP A389 185 (1982)
+
+Reference isotope   16 S 33               0            stable          3/2+               -0.694(4)                 MA        2018Py01      Mol Phys 116 1328 (2018)
+
+16 S 34             2128          0.32 ps           2+                +0.04(3)                  CER       1981Sp07         PRep 73 369 (1981)
+
+Reference isotope   16 S 35               0            87.4 d          3/2+               -0.483(3)                 MA        2018Py01      Mol Phys 116 1328 (2018)
+
+16 S 43              320           415 ns          7/2-                0.23(3)       A        TDPAD       2012Ch16       PRL 108 162501 (2012)
+
+Chlorine            Calculation of the quadrupole interaction at Cl in the HCl molecule
+
+Reference isotope   17 Cl 35              0            stable          3/2+               -0.0817(8)                AB        2008Py02      Mol Phys 106 1965 (2008)
+
+17 Cl 36              0           3.0x105 y         2+                -0.178(4)    [35Cl]       MA        1972St38         PR A6 1702 (1972)
+
+Reference isotope   17 Cl 37              0            stable          3/2+               -0.0644(6)                AB        2008Py02      Mol Phys 106 1965 (2008)
+
+Argon               Calculation of the quadrupole coupling constant instates of the the Ar atom                               2018Su25      Mol Phys 116 1682 (2018)
+
+18 Ar 35              0            1.78 s           3/2+               -0.084(15)   [37Ar]   CFBLS/β-NMR   1996Kl04          NP A607 1 (1996)
+
+18 Ar 36            1970          0.28 ps           2+                +0.11(6)                  CER       1971Na06         PL 34B 389 (1971)
+
+Reference isotope   18 Ar 37              0            35.0 d          3/2+               +0.076(3)             CFBLS/β-NMR   2018Py01      Mol Phys 116 1328 (2018)
+
+
+
+
+22
+Reference isotope   18 Ar 39              0            269 y           7/2-              -0.116(2)               CLS    2018Py01    Mol Phys 116 1328 (2018)
+
+18 Ar 40            1461          1.12 ps           2+                +0.01(4)               CER    1971Na05       PRL 24 903 (1970)
+
+18 Ar 41              0            1.82 h          7/2-              -0.042(4)     [37Ar]   CFBLS   2008Bl01       NP A799 30 (2008)
+
+18 Ar 43              0           5.37 m           5/2-              +0.142(14)    [37Ar]   CFBLS   2008Bl01       NP A799 30 (2008)
+
+"Potassium           Calculation of the quadrupole coupling constant at K in KF, KCl and KBr."
+
+19 K 37               0            1.23 s         3/2+               +0.109(4)     [39K]    β-NQR   2008Mi07       PL B662 389 (2008)
+
+Reference isotope   19 K 39               0            stable         3/2+               +0.603(6)               AB     2018Py01/1998Ke05    Mol Phys 116 1328 (2018)/CPL 292 403 (1998)
+      
+
+9
+Reference isotope   19 K 40               0          1.25x10 y          4-               -0.750(8)               AB     2018Py01/1998Ke05    Mol Phys 116 1328 (2018)/ CPL 292 403 (1998)
+     
+
+Reference isotope   19 K 41               0            stable         3/2+               +0.734(7)               AB     2018Py01/1998Ke05    Mol Phys 116 1328 (2018)/CPL 292 403 (1998)
+      
+
+Calcium             Calculation of the quadrupole coupling constant of the 1D2 state of the Ca atom
+
+20 Ca 37                0           181 ms          (3/2+)             -0.15(11)               CLS    2019KL06      PR C99 061301 (2019)
+
+20 Ca 39              0            0.86 s         3/2+               +0.038(3)               CLS    2019KL06      PR C99 061301 (2019)
+
+Reference isotope   20 Ca 41              0          1.0x105 y         7/2-             -0.0665(18)              AB     2008Py02    Mol Phys 106 1965 (2008)
+
+20 Ca 42            1525          0.83 ps           2+                -0.19(8)               CER    1973To07       NP A204 574 (1973)
+20 Ca 42            2424          140 fs            2+               -0.42(12)               CER    2018Ha10      PR C97 024326 (2018)
+
+Reference isotope   20 Ca 43              0            stable          7/2-              -0.0408(8)              AB     2008Py02    Mol Phys 106 1965 (2008)
+
+20 Ca 44            1157           2.7 ps           2+                -0.14(7)               CER    1973To07       NP A204 574 (1973)
+
+20 Ca 45              0           162.6 d          7/2-              +0.038(12)    [41Ca]   ABLFS   1983Ar25       ZP A314 303 (1983)
+
+20 Ca 47              0            4.54 d          7/2-              +0.084(6)     [43Ca]    CLS    2015Ru02   PR C91 041304 Rapid Report
+
+20 Ca 49              0           8.72 m           3/2-              -0.036(3)     [43Ca]    CLS    2015Ru02   PR C91 041304 Rapid Report
+
+20 Ca 51              0            10.0 s          3/2-              +0.036(12)    [43Ca]    CLS    2015Ru02   PR C91 041304 Rapid Report
+
+"Scandium            Calculation of the quadrupole coupling constants in ScF, ScCl and ScBr molecules"
+
+21 Sc 41              0            0.60 s          7/2-              -0.145(3)     [45Sc]   β-NQR   2002Mi37      ZNat 57a 595 (2002)
+
+21 Sc 43              0           3.89 h           7/2-               -0.27(5)     [45Sc]    CLS    2011Av01    J Phys G38 025104 (2011)
+21 Sc 43              3124          472 ns          19/2-              0.199(14)     [45Sc]   TDPAD   1981Da06       PR C23 1612 (1981)
+
+
+
+
+23
+21 Sc 44              0            3.97 h            2+                +0.10(5)       [45Sc]        CLS    2011Av01   J Phys G38 025104 (2011)
+21 Sc 44              68           155 ns           1-                 0.21(2)       [45Sc]       TDPAC   1973Ha61       JCP 58 3339 (1973)
+21 Sc 44              271           58.6 h           6+                -0.19(2)       [45Sc]        CLS    2011Av01   J Phys G38 025104 (2011)
+
+Reference isotope   21 Sc 45              0           stable           7/2-               -0.220(2)                    MS     2008Py02   Mol Phys 106 1965 (2008)
+21 Sc 45                                             12.4         318 ms           3/2+               +0.28(5)       [45Sc]        CLS    2011Av01   J Phys G38 025104 (2011)
+
+21 Sc 46              0           83.79 d           4+                +0.119(6)      [45Sc]        AB     1962Pe21      PR 128 1740 (1962)
+
+21 Sc 47              0            3.35 d          7/2-                -0.22(3)      [45Sc]        AB     1966Co13      PR 141 1106 (1966)
+
+Titanium            Calculation of the quadrupole coupling constants in states of the Ti+ ion
+
+22 Ti 43             3066          556 ns          19/2-               0.33(8)        [47Ti]      TDPAD   1981Da06      PR C23 1612 (1981)
+
+22 Ti 45              0           184.8 m          7/2-               0.015(15)    [47Ti][49Ti]    AB     1966Co19      PR 148 1157 (1966)
+
+22 Ti 46             889          5.32 ps           2+                 -0.21(6)                    CER    1975To06     NP A250 381 (1975)
+
+Reference isotope   22 Ti 47              0            stable          5/2-              +0.302(10)                    AB     2008Py02   Mol Phys 106 1965 (2008)
+
+22 Ti 48             984          4.04 ps           2+                -0.177(8)                    ES     1972Li12      PL B38 475 (1972)
+
+Reference isotope   22 Ti 49              0            stable          7/2-              +0.247(11)                    AB     2008Py02   Mol Phys 106 1965 (2008)
+
+22 Ti 50             1554         1.12 ps           2+                +0.08(16)                    CER    1975To06     NP A250 381 (1975)
+
+Vanadium            Calculation of the quadrupole coupling constants in states of the V atom
+A. Calculated efg in 3d/4s excited states of the V atom
+
+Reference isotope   23 V 50               0          1.4x1017 y         6+                +0.21(4)                    ABLDF   2018Py01   Mol Phys 116 1328 (2018)
+1979Er04      PL B85 319 (1979)
+
+23 V 51               0            stable          7/2-              -0.052(10)         A         LRFS    2018Py01   Mol Phys 116 1328 (2018)
+1989Un01      ZP D11 259 (1989)
+
+Chromium            Calculation of the quadrupole coupling constants in states of the Cr atom
+
+24 Cr 50             783          9.67 ps           2+                 -0.36(7)                    CER    1975To06     NP A250 381 (1975)
+
+24 Cr 52             1434         0.783 ps          2+                 -0.08(2)                    ES     1989Ra17      JPSJ 34 387 (1973)
+
+Reference isotope   24 Cr 53              0            stable          3/2-                -0.15(5)                    AB     2018Py01   Mol Phys 116 1328 (2018)
+
+24 Cr 54             835           8.0 ps           2+                 -0.21(8)                    CER    1975To06     NP A250 381 (1975)
+
+Manganese           Calculation of the quadrupole coupling constant for the 6D states of the Mn atom
+
+25 Mn 50             229           1.75 m           5+                +0.83(12)      [Mn55]        TLS    2010Ch15      PL B690 346 (2010)
+
+25 Mn 51              0            46.2 m          5/2-                0.41(8)       [Mn55]        AB     1971Jo10     NP A166 306 (1971)
+
+
+
+24
+                    25 Mn 52              0           5.80 d           6+                +0.50(7)      [Mn55]       NMR/ON     1970Ni11      Phca 50 259 (1970)
+
+6
+25 Mn 53              0          3.7x106 y         7/2-               +0.17(3)      [Mn55]         TLS      2010Ch15      PL B690 346 (2010)
+
+25 Mn 54              0           312 d            3+                +0.37(3)      [Mn55]         TLS      2010Ch15      PL B690 346 (2010)
+
+Reference isotope   25 Mn 55              0           stable          5/2-             +0.330(10)                     AB       2018Py01   Mol Phys 116 1328 (2018)
+
+25 Mn 56              0           2.58 h           3+                +0.24(8)      [Mn55]         CLS      2015He28    PR C92 044311 (2015)
+
+25 Mn 57              0           85.4 s          5/2-               +0.37(3)      [Mn55]         CLS      2016Ba44      PL B760 387 (2016)
+
+25 Mn 58              0            3.0 s           1+                +0.03(8)     [Mn55]          CLS      2015He28    PR C92 044311 (2015)
+25 Mn 58              72           65.4 s           4+                +0.47(9)     [Mn55]          CLS      2015He28    PR C92 044311 (2015)
+
+25 Mn 59              0            4.6 s          5/2-               +0.34(3)     [Mn55]          CLS      2016Ba44      PL B760 387 (2016)
+
+25 Mn 60              0           0.28 s           1+                +0.1(2)      [Mn55]          CLS      2015He28    PR C92 044311 (2015)
+25 Mn 60              272          1.77 s           4+               +0.33(10)     [Mn55]          CLS      2015He28    PR C92 044311 (2015)
+
+25 Mn 61              0           0.71 s          5/2-               +0.36(3)     [Mn55]          CLS      2016Ba44      PL B760 387 (2016)
+
+25 Mn 62             0             92 ms           1+                +0.1(2)      [Mn55]          CLS      2015He28    PR C92 044311 (2015)
+25 Mn 62             0+x           671 ms           4+               +0.59(13)     [Mn55]          CLS      2015He28    PR C92 044311 (2015)
+
+25 Mn 63              0           0.28 s          5/2-               +0.48(4)     [Mn55]          CLS      2016Ba44      PL B760 387 (2016)
+
+25 Mn 84              0           90 ms            1+               +0.21(11)     [Mn55]          CLS      2015He28    PR C92 044311 (2015)
+
+Iron                Efg calculations in many Fe compounds
+
+26 Fe 54            1408          0.76 ps         2+                -0.05(14)                     CER      1981Le02      PR C23 244 (1981)
+26 Fe 54            6527          364 ns          10+                +0.30(4)   [57Fe14keV]   TDPAD/TF   1984Ha07     NP A414 316 (1984)
+
+26 Fe 56             847          6.1 ps           2+                -0.23(3)                     CER      1971Th14      PR C4 1699 (1971)
+
+Reference isotope   26 Fe 57             14            98 ns          3/2-              +0.160(8)                     ME       2018Py01   Mol Phys 116 1328 (2018)
+1995Du17     PRL 75 3545 (1995)
+
+26 Fe 58             811          6.5 ps           2+                -0.27(5)                     CER      1981Le02      PR C23 244 (1981)
+
+26 Fe 61             862          238 ns         (9/2+)              0.44(6)    [57Fe14keV]    TDPAD     2007Ve05    PR C75 051302 (2007)
+
+Cobalt              Calculation of the quadrupole coupling constants in states of the Co atom
+
+27 Co 56              0           77.2 d           4+                +0.25(9)      [59Co]       MAPON      1988Ba87     PR B37 4911 (1988)
+
+27 Co 57              0           272 d           7/2-              +0.54(10)      [59Co]       NMR/ON     1972Ni01       Phca 57 1 (1972)
+
+27 Co 58              0           70.8 d           2+                +0.23(3)      [59Co]       NMR/ON     1972Ni01       Phca 57 1 (1972)
+
+
+
+25
+Reference isotope   27 Co 59              0           stable          7/2-               +0.42(3)                     AB      2018Py01     Mol Phys 116 1328 (2018)
+
+27 Co 60              0           5.271 y          5+                +0.46(6)       [59Co]      NMR/ON    1972Ni01         Phca 57 1 (1972)
+
+Nickel              Calculation of the quadrupole coupling constants in states of the Ni atom
+
+28 Ni 58            1454          0.65 ps          2+                -0.10(6)                     CER     1974Le13        NP A223 563 (1974)
+
+28 Ni 60            1332          0.74 ps          2+                -0.10(2)                     ES      1972Li12         PL 38B 475 (1972)
+
+Reference isotope   28 Ni 61              0           stable          3/2-              +0.162(15)                    AB      2018Py01     Mol Phys 116 1328 (2018)
+1968Ch10        PR 170 136 (1968)
+28 Ni 61                                             67           5.34 ns         5/2-               -0.20(3)       [61Ni]        ME      1971Go31      ZNat 26a 1931 (1971)
+
+28 Ni 62            1173          1.45 ps          2+               +0.05(12)                     CER     1974Le13        NP A223 563 (1974)
+
+28 Ni 64            1346          1.09 ps          2+                 +0.4(2)                     CER     1971ChZK        BAPS 16 625 (1971)
+
+Copper              Muonic atom X-ray hyperfine structure
+
+29 Cu 58              0            3.2 s           1+                -0.16(3)       [65Cu]       CLS/R    2011Vi03         PL B703 34 (2011)
+
+29 Cu 59              0           81.5 s          3/2-               -0.20(2)       [65Cu]       CLS/R    2011Vi03         PL B703 34 (2011)
+
+29 Cu 60              0           23.7 m           2+               +0.121(13)      [65Cu]       CLS/R    2011Vi03         PL B703 34 (2011)
+
+29 Cu 61              0           3.34 h          3/2-              -0.221(10)      [65Cu]       CLS/R    2011Vi03         PL B703 34 (2011)
+
+29 Cu 62              0           9.67 m           1+                -0.022(4)      [65Cu]       CLS/R    2011Vi03         PL B703 34 (2011)
+
+Reference isotope   29 Cu 63              0           stable          3/2-              -0.220(15)                   Mu-X     2018Py01     Mol Phys 116 1328 (2018)
+1982Ef01        ZP A309 77 (1982)
+
+29 Cu 64              0           12.7 h           1+               +0.075(9)       [65Cu]       CLS/R    2010Vi07       PR C82 064311 (2010)
+
+Reference isotope   29 Cu 65              0           stable          3/2-              -0.204(14)                   Mu-X     2018Py01     Mol Phys 116 1328 (2018)
+1982Ef01        ZP A309 77 (1982)
+
+29 Cu 66              0            5.1 m           1+               +0.059(14)       [65Cu]     CLS/R     2010Vi07       PR C82 064311 (2010)
+"29 Cu 66              1154          0.60 µs          6-              (+)0.195(13)   [63Cu,65Cu]   TDPAD     2011Lo01        PL B694 316 (2011)"
+
+29 Cu 67              0           61.8 h          3/2-               -0.182(8)      [65Cu]       CLS/R    2010Vi07       PR C82 064311 (2010)
+
+29 Cu 68              0            30.9 s          1+               -0.086(14)      [65Cu]       CLS/R    2010Vi07       PR C82 064311 (2010)
+29 Cu 68              84           7.84 ns          2+                0.115(8)       [65Cu]      TDPAC/R   2016Fe08   Eur Phys Lett 115 62002 (2016)
+29 Cu 68              721          3.75 m           6-                -0.46(2)       [65Cu]       CLS/R    2010Vi07       PR C82 064311 (2010)
+
+29 Cu 69              0           2.85 m          3/2-              -0.154(17)      [65Cu]       CLS/R    2010Vi07       PR C82 064311 (2010)
+
+29 Cu 70              0           44.5 s           6-               -0.298(15)      [65Cu]       CLS/R    2010Vi07       PR C82 064311 (2010)
+
+
+
+26
+29 Cu 70               101           33 s            3-                -0.14(4)    [65Cu]   CLS/R   2010Vi07     PR C82 064311 (2010)
+29 Cu 70               242           6.6 s           1+                -0.12(3)    [65Cu]   CLS/R   2010Vi07     PR C82 064311 (2010)
+
+29 Cu 71              0           19.4 s          3/2-              -0.200(17)   [65Cu]   CLS/R   2010Vi07     PR C82 064311 (2010)
+
+29 Cu 72              0           6.62 s           2-                +0.08(2)    [65Cu]   CLS/R   2010Vi07     PR C82 064311 (2010)
+
+29 Cu 73              0            4.2 s          3/2-              -0.210(10)   [65Cu]   CLS/R   2010Vi07     PR C82 064311 (2010)
+
+29 Cu 74              0           1.63 s           2-                +0.27(3)    [65Cu]   CLS/R   2010Vi07     PR C82 064311 (2010)
+
+29 Cu 75              0           1.22 s          5/2-              -0.281(17)   [65Cu]   CLS/R   2010Vi07     PR C82 064311 (2010)
+
+29 Cu 76              0           641 ms           3-                +0.36(2)    [65Cu]   CLS/R   2017De30    PR C96 041302(R) (2017)
+
+29 Cu 77              0           470 ms          5/2+               -0.27(3)    [65Cu]   CLS/R   2017De30    PR C96 041302(R) (2017)
+
+29 Cu 78              0           335 ms          (6-)              +0.02(10)    [65Cu]   CLS/R   2017De30    PR C96 041302(R) (2017)
+
+Zinc                Calculation of the quadrupole coupling constants in states of the Zn atom                         2018Bi07     PR A97 062505 (2018)
+
+30 Zn 63              0           38.4 m          3/2-               +0.20(2)    [67Zn]   CLS     1969La05      PR 177 1606 (1969)
+
+30 Zn 64             992          1.94 ps          2+                -0.14(2)              ES     1981Ko06      JPhys G7 L63 (1981)
+1976Ne06      NP A263 249 (1976)
+
+30 Zn 65              0           244.1 d         5/2-              -0.019(2)    [67Zn]    OD     1964By01      PR 134 A47 (1964)
+
+30 Zn 66            1039          1.68 ps          2+                +0.24(8)             CER     2003Ko51    Eur Phys J A18 87 (2003)
+30 Zn 66            4074           30 ps           6-               -0.081(13)             ES     1981Ko06      JPhys G7 L63 (1981)
+1976Ne06      NP A263 249 (1976)
+
+Reference isotope   30 Zn 67              0           stable          5/2-              +0.122(10)             CLS    2017Wr01       PL B771 385 (2017)
+2018Bi07     PR A97 062505 (2018)
+ 30 Zn 67               604          333 ns          9/2+               +0.44(4)    [67Zn]   NQR     1976Ch37        ZP B24 177 (1976)
+1979Ka44   Sol St Comm 29 375 (1979)
+
+30 Zn 68            1077          1.61 ps          2+               -0.106(16)             ES     1981Ko06      JPhys G7 L63 (1981)
+1976Ne06      NP A263 249 (1976)
+
+30 Zn 69             439          13.7 h          9/2+               -0.39(3)    [67Zn]    CLS    1983Oe01      ZP A310 233 (1983)
+
+30 Zn 70             885          3.7 ps           2+                -0.24(3)              ES     1981Ko06      JPhys G7 L63 (1981)
+1976Ne06      NP A263 249 (1976)
+
+30 Zn 71             158          3.96 h          9/2+               -0.26(3)    [67Zn]    CLS    2017Wr01      PL B771 385 (2017)
+
+30 Zn 73             195         13.0 ms          5/2+               +0.43(4)    [67Zn]    CLS    2017Wr01      PL B771 385 (2017)
+
+30 Zn 75              0           10.2 s          7/2+               +0.16(2)    [67Zn]    CLS    2017Wr01      PL B771 385 (2017)
+
+
+
+
+27
+30 Zn 77             0            2.08 s         7/2+              +0.48(4)             [67Zn]       CLS    2017Wr01      PL B771 385 (2017)
+
+30 Zn 79             0            0.75 s         9/2+              +0.40(4)             [67Zn]       CLS    2017Wr01      PL B771 385 (2017)
+
+"Gallium             Calculation of the quadrupole coupling constants in GaF, GaCl and GaBr molecules"
+
+31 Ga 63             0            32.4 s         3/2-             +0.212(14)            [69Ga]       CLS    2012Pr11    PR C86 034329 (2012)
+
+31 Ga 65             0           15.2 m          3/2-             +0.210(15)            [71Ga]       CLS    2017Fa09    PR C96 044324 (2017)
+
+31 Ga 66            1464          57 ns           7-               +0.78(4)          [69Ga][71Ga]   TDPAD   1985Ra33      HFI 26 855 (1985)
+
+31 Ga 67             0           78.3 h          3/2-              +0.197(2)         [69Ga][71Ga]    AB     1968Eh02      PR 176 25 (1968)
+2001Py02   Mol Phys 99 1617 (2001)
+
+31 Ga 68             0           67.7 m           1+              -0.0277(14)        [69Ga][71Ga]     AB    1972St38      PR A6 1702 (1972)
+31 Ga 68             1230          62 ns           7-                +0.72(2)         [69Ga][71Ga]   TDPAD   1985Ra33      HFI 26 855 (1985)
+
+Reference isotope   31 Ga 69             0           stable          3/2-              +0.171(2)                         MS     2018Py01   Mol Phys 116 1328 (2018)
+
+31 Ga 70             0           21.1 m           1+               +0.105(7)            [69Ga]       CLS    2012Pr11    PR C86 034329 (2012)
+
+Reference isotope   31 Ga 71             0           stable          3/2-              +0.107(1)                         MS     2018Py01   Mol Phys 116 1328 (2018)
+
+31 Ga 72             0           14.1 h           3-               +0.530(6)         [69Ga][71Ga]    AB     1968Eh02      PR 176 25 (1968)
+2001Py02   Mol Phys 99 1617 (2001)
+
+31 Ga 73             0           4.86 h          3/2-              +0.209(2)            [71Ga]       CLS    2010Ch16    PRL 104 252502 (2010)
+
+31 Ga 74             0           8.12 m        3-or4-       +0.55(4)or+0.60(4)      [71Ga]       LRS    2011Ma45    PR C84 024303 (2011)
+
+31 Ga 75             0            126 s          3/2-             -0.285(17)            [71Ga]       CLS    2010Ch16    PRL 104 252502 (2010)
+
+31 Ga 76             0            32.6 s         (2+)              +0.33(2)             [71Ga]       LRS    2011Ma45    PR C84 024303 (2011)
+
+31 Ga 77             0            13.2 s         3/2-             -0.208(13)            [71Ga]       CLS    2010Ch16    PRL 104 252502 (2010)
+
+31 Ga 78             0            5.1 s          (2+)              +0.33(2)             [71Ga]       LRS    2011Ma45    PR C84 024303 (2011)
+
+31 Ga 79             0            2.85 s         3/2-             +0.158(10)            [71Ga]       CLS    2010Ch16    PRL 104 252502 (2010)
+
+31 Ga 80             0            1.9 s          (3-)              +0.38(2)             [71Ga]       CLS    2010Ch50   PR C82 051302(R) (2010)
+31 Ga 80             22.4          1.3 s          (6-)              +0.48(3)             [71Ga]       CLS    2010Ch50   PR C82 051302(R) (2010)
+
+31 Ga 81             0            1.22 s         5/2-              -0.048(8)            [71Ga]       CLS    2010Ch16    PRL 104 252502 (2010)
+
+"Germanium           Calculation of the quadrupole coupling constants in GeO, GeS molecules"
+A. Efg of Ge in Zn single crystal
+
+32 Ge 67            752          146 ns          9/2+               0.92(9)            [73Ge]       TDPAD   1993Co17      HFI 80 1321 (1993)
+1981Vi05      HFI 10 1243 (1981)
+
+
+
+28
+32 Ge 69              0           39.0 h         5/2-         +0.114(7)    [73Ge]    CLS    2020Ka58      PR C102 054331 (2020)
+32 Ge 69             398          2.8 µs         9/2+          0.75(8)     [73Ge]   TDPAD   1993Co17        HFI 80 1321 (1993)
+1981Vi05        HFI 10 1243 (1981)
+
+32 Ge 70            1039         1.30 ps          2+           +0.03(6)              CER    1980Le16       PR C22 1530 (1980)
+2000To12     Eur Phys J A9 353 (2000)
+
+32 Ge 71             175          79 ns          5/2+          0.18(4)       A      TDPAD   1993Co17        HFI 80 1321 (1993)
+1981Vi05        HFI 10 1243 (1981)
+32 Ge 71             199         20.4 ms         9/2+          0.34(5)               QIR    1975Ri03         PS 11 228 (1975)
+1976Br41         HFI 2 265 (1976)
+
+32 Ge 72             834         3.35 ps          2+           -0.13(6)              CER    1980Le16       PR C22 1530 (1980)
+2000To12     Eur Phys J A9 353 (2000)
+
+Reference isotope   32 Ge 73              0           stable         9/2+         -0.196(1)              MS     2018Py01    Mol Phys 116 1328 (2018)
+1999Ke17     Mol Phys 96 275 (1999)
+32 Ge 73       13          2.92 µs         5/2+          0.70(8)       A      TDPAC   1993Co17      HFI 80 1321 (1993)
+1981Vi05      HFI 10 1243 (1981)
+
+32 Ge 74            596          12.4 ps          2+           -0.19(2)              CER    2000To12     Eur Phys J A9 353 (2000)
+32 Ge 74            1204          5.4 ps          2+           -0.26(6)              CER    2000To12     Eur Phys J A9 353 (2000)
+
+32 Ge 76             563         18.2 ps          2+           -0.19(6)              CER    1980Le16       PR C22 1530 (1980)
+2000To12     Eur Phys J A9 353 (2000)
+
+Arsenic             Calculation of the quadrupole coupling constant in AsP.                                     2010De44   Chem Phys Lett 498 10 (2010)
+
+33 As 70              0           53 m            4+           +0.09(2)    [75As]    AB     1980Ho02         ZP A294 1 (1980)
+
+33 As 71              0           65.3 h          5/2-        -0.021(6)    [75As]   NO/S    1988Wh03        HFI 43 205 (1988)
+
+33 As 72              0            26 h            2-          -0.08(2)    [75As]    AB     1980Ho02         ZP A294 1 (1980)
+
+33 As 73             66           5.0 ns          5/2-        +0.353(12)   [75As]   TDPAC   1992Sc21       ZP A343 279 (1992)
+
+Reference isotope   33 As 75              0           stable          3/2-        +0.311(2)              MS     2018Py01    Mol Phys 116 1328 (2018)
+2010De44   Chem Phys Lett 498 10 (2010)
+
+Selenium            Calculation of the quadrupole coupling constant in Se metal
+
+34 Se 70             945          1.0 ps          2+           -0.6(3)               CER    2018He14     PRL 121 082502 (2018)
+
+34 Se 72          862          2.8 ps          2+           -0.6(3)               CER    2018He14     PRL 121 082502 (2018)
+
+34 Se 74             635         7.08 ps          2+           -0.36(7)              CER    1978Le22       PR C18 2801 (1978)
+
+34 Se 75              0          119.8 d         5/2+           1.1(2)     [77Se]    MA     1955Aa06        PR 98 1224 (1955)
+
+34 Se 76             559         12.3 ps          2+           -0.35(4)              CER    2019He07      PR C99 054313 (2019)
+
+
+
+29
+34 Se 76          1216          3.4 ps           2+                +0.19(4)              CER    2019He07       PR C99 054313 (2019)
+34 Se 76          1331          1.52 ps          4+                -0.29(4)              CER    2019He07       PR C99 054313 (2019)
+
+Reference isotope   34 Se 77             250           9.6 ns         5/2-               +0.76(5)             TDPAC   2018Py01     Mol Phys 116 1328 (2018)
+1983Un02        HFI 14 119 (1983)
+
+34 Se 78             614           9.8 ps          2+                 -0.26(9)             CER    1977Le11        NP A284 123 (1977)
+
+5
+34 Se 79              0          3.3x105 y         7/2+                +0.8(2)    [77Se]    MA     1989Ra17       ADNDT 42 189 (1989)
+OSpk 12 163 (1962)
+
+34 Se 80             666           8.5 ps          2+                 -0.31(7)             CER    1977Le11        NP A284 123 (1977)
+
+34 Se 82             655          13.1 ps          2+                 -0.22(7)             CER    1977Le11        NP A284 123 (1977)
+
+Bromine             Calculation of the quadrupole coupling constants in states of the Br atom.
+
+35 Br 76              0           16.2 h            1-               +0.251(4)   [79Br]    AB     1960Li11        PR 119 1053 (1960)
+
+35 Br 77              0            57 h           3/2-               +0.50(2)    [79Br]   MAPON   1998Se09        PRL 80 5289 (1998)
+
+Reference isotope   35 Br 79              0            stable         3/2-              +0.3087(2)             AB     2018Py01      Mol Phys 116 1328 (2018)
+2013Ch52   J Phys Chem A117 12616 (2013)
+
+35 Br 80              0           17.7 m           1+                +0.182(3)   [79Br]    AB     1964Wh05        PR 136 B584 (1964)
+35 Br 80              37           7.4 ns           2-                0.162(6)    [79Br]    AB     1978Ta24        HP Ac 51 755 (1978)
+35 Br 80              86           4.42 h           5-               +0.700(10)   [79Br]    AB     1964Wh05        PR 136 B584 (1964)
+
+Reference isotope   35 Br 81              0            stable         3/2-              +0.2579(2)   [79Br]   AB/MS   2018Py01      Mol Phys 116 1328 (2018)
+2013Ch52   J Phys Chem A117 12616 (2013)
+
+35 Br 82              0           35.3 h            5-              +0.697(10)   [79Br]    AB     1959Ga12         PR 116 393 (1959)
+
+Krypton             Calculation of the quadrupole coupling constants in KrH+
+
+36 Kr 75              0            4.6 m          5/2+              +1.137(13)   [83Kr]   CFBLS   1995Ke04        NP A586 219 (1995)
+
+36 Kr 77              0           74.4 m          5/2+              +0.948(10)   [83Kr]   CFBLS   1995Ke04        NP A586 219 (1995)
+
+36 Kr 79             130           50 s           7/2+               +0.404(5)   [83Kr]   CFBLS   1995Ke04        NP A586 219 (1995)
+36 Kr 79             147          78.7 ns         5/2-                +0.45(3)   [83Kr]   TDPAD   1978HaXP         ARHMI 50 (1977)
+
+36 Kr 81              0          2.3x105 y        7/2+               +0.644(4)   [83Kr]    LRFS   1993Ca41        PR A47 1148 (1993)
+
+Reference isotope   36 Kr 83              0           stable          9/2+               +0.259(1)             MS     2018Py01     Mol Phys 116 1328 (2018)
+36 Kr 83             9           157 ns          7/2+               +0.507(3)   [83Kr]    ME     1977Ho33       JCP 66 2627 (1977)
+
+36 Kr 84            3236          1.83 µs          8+                +0.36(4)    [83Kr]   LEMS    2006Sc22       PR C74 034309 (2006)
+
+36 Kr 85              0           10.74 y         9/2+               +0.443(3)   [83Kr]    LRFS   1993Ca41        PR A47 1148 (1993)
+
+
+
+
+30
+36 Kr 87             0           76.3 m          5/2+     -0.300(3)    [83Kr]   CFBLS   1995Ke04       NP A586 219 (1995)
+
+36 Kr 89             0           3.15 m          3/2+     +0.166(2)    [83Kr]   CFBLS   1995Ke04       NP A586 219 (1995)
+
+36 Kr 91             0            8.57 s         5/2+     +0.303(6)    [83Kr]   CFBLS   1995Ke04       NP A586 219 (1995)
+
+36 Kr 94            666           8.7 ps          2+       -0.5(3)              CER     2012 Al03     PRL 108 062701 (2012)
+
+Rubidium            Calculation of the quadrupole coupling constants in RbF
+
+37 Rb 75             0            19.0 s        3/2(-)     +0.81(4)    [85Rb]   CFBLS   2015Pr05    Eur. Phys. J. A 51 23 (2015)
+
+37 Rb 76             0            36.5 s         1(-)      +0.41(9)    [85Rb]   CFBLS   2015Pr05    Eur. Phys. J. A 51 23 (2015)
+
+37 Rb 77             0            3.8 m          3/2-     +0.84(17)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 78            103           5.7 m           4-       +1.07(3)    [85Rb]   CFBLS   2015Pr05    Eur. Phys. J. A 51 23 (2015)
+
+37 Rb 79             0            23 m           5/2+      -0.12(4)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 80             0            33.4 s          1+       +0.42(8)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 81             0           4.57 h          3/2-     +0.48(10)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+37 Rb 81             86          30.5 m          9/2+     -0.90(19)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 82             0           1.26 m           1+      +0.23(10)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+37 Rb 82             69          6.47 h           5-      +1.22(27)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 83             0           86.2 d          5/2-      +0.24(5)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 84             0           32.8 d           2-       -0.02(4)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+37 Rb 84            464          20.3 m           6-      +0.70(36)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+Reference isotope   37 Rb 85             0           stable          5/2-     +0.276(1)             MS      2018Py01    Mol Phys 116 1328 (2018)
+ 37 Rb 85           514          1.02 µs         9/2+      -0.9(3)     [85Rb]   OPD     1991Ma21      PRL 66 1681 (1991)
+
+37 Rb 86             0           18.64 d          2-       +0.23(6)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+37 Rb 86             556          1.02 m          (6-)     +0.45(14)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+Reference isotope   37 Rb 87             0          5.0x1010 y       3/2-     +0.1335(5)             MS     2018Py01    Mol Phys 116 1328 (2018)
+
+37 Rb 88             0           17.8 m           2-      -0.01(11)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 89             0           15.3 m          3/2-      +0.17(3)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 90            107          4.26 m           3-       +0.25(7)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 91             0            58.2 s        3/2(-)     +0.19(5)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+37 Rb 93             0            5.84 s         5/2-      +0.21(6)    [85Rb]   ABLS    1981Th04        PR C23 2720 (1981)
+
+
+
+
+31
+37 Rb 94              0           2.70 s          3(-)               +0.20(7)                 [85Rb]    ABLS    1981Th04       PR C23 2720 (1981)
+
+37 Rb 95              0           0.38 s          5/2-               +0.26(9)                 [85Rb]    ABLS    1981Th04       PR C23 2720 (1981)
+
+37 Rb 96              0           0.20 s           2+                +0.30(9)                 [85Rb]    ABLS    1981Th04       PR C23 2720 (1981)
+
+37 Rb 97              0           0.17 s          3/2-              +0.70(15)                 [85Rb]    ABLS    1981Th04       PR C23 2720 (1981)
+
+37 Rb 98            ~270         96 ms           (3+)               +1.73(4)                 [85Rb]    CFBLS   2015Pr05   Eur. Phys. J. A 51 23 (2015)
+
+Strontium           Calculation of the quadrupole coupling constants in the 4d 2D5/2 and 5P3/2 states of the Sr+ ion
+
+38 Sr 77              0             9 s            5/2+               +1.27(5)                 [87Sr]    CFBLS   1992Li11        PR C46 797 (1992
+
+38 Sr 79              0           2.25 m         (3/2-)             +0.661(6)                 [87Sr]    CFBLS   1990Bu12       PR C41 2883 (1990)
+
+38 Sr 83              0           32.4 h          7/2+              +0.708(11)                [87Sr]    CFBLS   1990Bu12       PR C41 2883 (1990)
+
+38 Sr 85              0           64.8 d          9/2+              +0.263(14)                [87Sr]    CFBLS   1990Bu12       PR C41 2883 (1990)
+
+Reference isotope   38 Sr 87              0           stable          9/2+              +0.305(2)                            AB     2008Py02   Mol Phys 106 1965 (2008)
+2006Sa21    PR A73 062501 (2006)
+
+38 Sr 89              0           50.6 d          5/2+              -0.253(8)                 [87Sr]    CFBLS   1990Bu12       PR C41 2883 (1990)
+
+38 Sr 91              0           9.65 h          5/2+              +0.042(10)                [87Sr]    CFBLS   1990Bu12       PR C41 2883 (1990)
+
+38 Sr 93              0           7.4 m            2+               +0.240(10)                [87Sr]    CFBLS   1990Bu12       PR C41 2883 (1990)
+
+38 Sr 96             815          4.8 ps           2+                 -0.2(3)                           CER     2016Cl01     PRL 116 022701 (2016)
+PRL 117 099902 (2016)
+38 Sr 98             144          2.8 ns           4+                 -0.5(2)                           CER     2016Cl01     PRL 116 022701 (2016)
+PRL 117 099902 (2016)
+433           82 ps           6+                 -2.1(2)                           CER     2016Cl01     PRL 116 022701 (2016)
+PRL 117 099902 (2016)
+867          7.9 ps           2+                 -1.3(2)                           CER     2016Cl01     PRL 116 022701 (2016)
+PRL 117 099902 (2016)
+871          8.6 ps           8+               +0.03(20)                           CER     2016Cl01     PRL 116 022701 (2016)
+PRL 117 099902 (2016)
+1432           3 ps           5/2+                -0.9(9)                           CER     2016Cl01     PRL 116 022701 (2016)
+PRL 117 099902 (2016)
+
+38 Sr 99              0           0.269 s         3/2+               +0.76(4)                 [87Sr]    CFBLS   1991Li05       PL B256 141 (1991)
+
+Yttrium             Calculation of the quadrupole coupling constants in the 4d5s2 2D states of the Y atom
+
+39 Y 87              381          13.4 h          9/2+               -0.50(6)                  [90Y]     CLS    2007Ch07       PL B645 133 (2007)
+
+39 Y 88               0           106 d            4-                +0.16(3)                  [90Y]     CLS    2007Ch07       PL B645 133 (2007)
+39 Y 88               675          14 ms            8+                +0.06(6)                  [90Y]     CLS    2007Ch07       PL B645 133 (2007)
+
+
+
+
+32
+                    39 Y 89              909          15.7 s         9/2+                -0.43(6)             [90Y]            CLS       2007Ch07      PL B645 133 (2007)
+
+Reference isotope   39 Y 90               0           64.0 h           2-              -0.125(11)                              AB        2018Py01   Mol Phys 116 1328 (2018)
+1998Bi20     PR A58 4401 (1998)
+39 Y 90              682          3.19 h          7+                 -0.65(8)             [90Y]            CLS       2007Ch07     PL B645 133 (2007)
+
+39 Y 92               0           3.54 h           2-                0.00(2)              [90Y]            CLS       2007Ch07      PL B645 133 (2007)
+
+39 Y 93              758          0.82 s         9/2+               -0.64(8)              [90Y]            CLS       2007Ch07      PL B645 133 (2007)
+
+39 Y 94               0           18.7 m           2-               -0.03(3)              [90Y]            CLS       2007Ch07      PL B645 133 (2007)
+
+39 Y 96             1140           9.6 s          8+                -0.98(11)             [90Y]            CLS       2007Ch07      PL B645 133 (2007)
+
+39 Y 97              668          1.17 s          9/2+               -0.76(8)             [90Y]            CLS       2007Ch07      PL B645 133 (2007)
+39 Y 97              3522         142 ms          (27/2)             -1.21(14)             [90Y]            CLS       2007Bi14      PL B645 330 (2007)
+
+39 Y 98             410            2.0 s         4or5         +1.7(2)or+1.8(2)        [90Y]            CLS       2007Bi14      PL B645 330 (2007)
+
+39 Y 99               0           1.48 s         5/2+               +1.55(17)             [90Y]            CLS       2007Bi14      PL B645 330 (2007)
+
+39 Y 100            (143)         0.94 s           4                +1.85(20)             [90Y]            CLS       2007Bi14      PL B645 330 (2007)
+2010Ba31   J Phys G37 105103 (2010)
+
+39 Y 101              0           0.45 s         5/2+               +1.53(17)             [90Y]            CLS       2007Bi14      PL B645 330 (2007)
+
+39 Y 102            0+x            0.3 s         2or3      +1.17(13)or+1.36(16)       [90Y]            CLS       2007Bi14      PL B645 330 (2007)
+
+Zirconium           Calculation of the quadrupole coupling constants in the ZrO and ZrS molecules
+
+40 Zr 87              0           1.68 h         9/2+               +0.42(5)              [91Zr]           CLS       2003Th03    J Phys G29 2247 (2003)
+
+40 Zr 88            2889         1.32 µs          8+                +0.44(3)              [91Zr]        TDPAD/TFLD   1985Ra09      PRL 54 2592 (1985)
+1986Be06      PR C33 1517 (1986)
+
+40 Zr 89              0           78.4 h         9/2+               +0.28(10)             [91Zr]           CLS       2003Th03    J Phys G29 2247 (2003)
+
+40 Zr 90            3589          131 ns          8+                 -0.44(3)             [91Zr]        TDPAD/TFLD   1985Ra09      PRL 54 2592 (1985)
+1986Be06      PR C33 1517 (1986)
+
+Reference isotope   40 Zr 91              0           stable         5/2+               -0.176(3)                              MS        2018Py01   Mol Phys 116 1328 (2018)
+2000Ke03     CPL 318 222 (2000)
+40 Zr 91              3167          4.4 µs         21/2+               0.71(4)              [91Zr]          TDPAD      1985Ra09     PRL 54 2592 (1985)
+
+40 Zr 95              0           64.0 d         5/2+               +0.22(2)          [5-90mZrcalc]    MAPON       1998Se01      PRL 80 924 (1998)
+
+40 Zr 101             0            2.3 s         3/2+               +0.81(6)              [91Zr]           CLS       2002Ca37    PRL 89 082501 (2002)
+
+Niobium             Muonic atom X-ray hyperfine structure
+
+41 Nb 90              0           14.6 h          8+                +0.01(4)              [93Nb]           CLS       2009Ch25    PRL 102 222501 (2009)
+
+
+
+33
+41 Nb 90             125           18.8 s           4-                -0.26(4)           [93Nb]          CLS        2009Ch25     PRL 102 222501 (2009)
+
+41 Nb 91              0            680 y          9/2+                -0.25(3)           [93Nb]          CLS        2009Ch25     PRL 102 222501 (2009)
+
+41 Nb 92              0          3.5x107 y         7+                 -0.35(3)           [93Nb]          CLS        2009Ch25     PRL 102 222501 (2009)
+
+Reference isotope   41 Nb 93              0            stable         9/2+                -0.32(2)                          Mu-X        2018Py01    Mol Phys 116 1328 (2018)
+1973Po15      NP A217 573 (1973)
+
+41 Nb 99              0             15 s          9/2+                -0.41(14)          [93Nb]          CLS        2009Ch25     PRL 102 222501 (2009)
+
+41 Nb 101             0            7.1 s          5/2+                +1.05(7)           [93Nb]          CLS        2009Ch25     PRL 102 222501 (2009)
+
+41 Nb 103             0            1.5 s          5/2+                +1.08(9)           [93Nb]          CLS        2009Ch25     PRL 102 222501 (2009)
+
+Molybdenum          Estimation of the quadrupole coupling constant in states of the Mo atom
+A. Normalised to Q of 92Mo 2760 keV state estimated from B(E2)
+
+42 Mo 90            2875           1.1 µs          8+                  0.61(3)              A           TDPAD       1985Ra09       PRL 54 2592 (1985)
+
+42 Mo 92            2760          190 ns           8+                  (-)0.36          from B(E2)   not measured   1991Ha04       PR C43 2140 (1991)
+
+42 Mo 94            871            2.8 ps          2+            -0.13(8)or+0.01(8)                    CER        1976Pa13       PR C14 835 (1976)
+42 Mo 94            2956           98 ns           8+                  0.50(1)              A           TDPAD       1985Ra09       PRL 54 2592 (1985)
+
+Reference isotope   42 Mo 95              0            stable         5/2+                -0.022(1)                          AB         2018Py01    Mol Phys 116 1328 (2018)
+1982BuZE          STMP vol 96
+
+42 Mo 96             778           3.7 ps          2+            -0.20(8)or+0.04(8)                    CER        1976Pa13        PR C14 835 (1976)
+
+Reference isotope   42 Mo 97              0            stable         5/2+               +0.255(13)                          AB         2018Py01    Mol Phys 116 1328 (2018)
+1982BuZE          STMP vol 96
+
+42 Mo 98             787           3.5 ps          2+                 -0.26(9)                           CER        1979Pa11       PR C20 1201 (1979)
+
+42 Mo 100            536          12.6 ps          2+                 -0.25(7)                           CER        2011Wr01   Acta Phys Pol B42 803 (2011)
+
+Technetium          Estimation of the quadrupole coupling constant in states of the Tc atom
+
+Reference isotope   43 Tc 99              0          2.1x105 y        9/2+                -0.129(6)                          AB         2018Py01    Mol Phys 116 1328 (2018)
+1982BuZE          STMP vol 96
+
+Ruthenium           Calculated hyperfine structure in the 5F multiplet of the Ru atom
+
+44 Ru 93            2082           2.3 µs         21/2+               +0.04(1)           [99Ru]         TDPAD       1991Ha04       PR C43 2140 (1991)
+
+44 Ru 96             833           2.9 ps          2+                 -0.15(8)                           CER        1998Hi01          PR C57 (1998)
+
+44 Ru 98             653           5.5 ps          2+            -0.21(8)or-0.01(9)                    CER        1998Hi01          PR C57 (1998)
+
+Reference isotope   44 Ru 99              0            stable         5/2+                +0.079(4)                          AB         2018Py01    Mol Phys 116 1328 (2018)
+
+
+34
+ 44 Ru 99                         90          20.5 ns                  3/2+                 +0.231(13)             [99Ru]        ME     1976Ki02      PR C13 1132 (1976)             
+
+
+44 Ru 100           540          12.6 ps          2+              -0.44(4)or-0.27(7)                     CER    1998Hi01        PR C57 (1998)
+
+Reference isotope   44 Ru 101             0           stable         5/2+                  +0.46(2)                            AB     2018Py01   Mol Phys 116 1328 (2018)
+1982BuZE         STMP vol 96
+
+44 Ru 102           475           18 ps           2+              -0.63(4)or-0.34(3)                     CER    1998Hi01        PR C57 (1998)
+
+44 Ru 103             0           39.2 d         3/2+                  +0.62(2)           [99Ru90keV]    NO/S   1986Gr26      HFI 30 355 (1986)
+
+44 Ru 104           358           56 ps           2+          -0.78(7)or-0.20(12)                        CER    1998Hi01        PR C57 (1998)
+
+
+Rhodium             Calculation of the quadrupole coupling constants in Rh intermetallic compounds
+
+Reference isotope   45 Rh 100            74           215 ns         (2)+                 0.153 (18)                           PAC    2018Py01   Mol Phys 116 1328 (2018)
+1996Bl15      HFI 97/98 3 (1996)
+
+45 Rh 103           295           6.6 ps         3/2-                   -0.3(2)                            CERP   1976Ge19     ZP A 279 183 (1976)
+45 Rh 103           357           73 ps          5/2-                   -0.4(2)                            CERP   1976Ge19     ZP A 279 183 (1976)
+
+Palladium           Muonic atom X-ray hyperfine structure
+
+46 Pd 102           556          11.5 ps          2+                   -0.20(15)                           CERP   1977Fa11     NIM 146 329 (1977)
+
+46 Pd 104           556           9.9 ps          2+                   -0.46(11)                           CERP   1977Fa11     NIM 146 329 (1977)
+
+Reference isotope   46 Pd 105             0           stable         5/2+                 +0.660(11)                           Mu-X   2018Py01   Mol Phys 116 1328 (2018)
+1978Vu01     NP A294 273 (1978)
+
+46 Pd 106           512           12 ps           2+                   -0.51(7)                             ES    1973Ho05      PRL 30 388 (1973)
+
+46 Pd 108           434           24 ps           2+                   -0.58(4)                             ES    1978Ar07     J Phys G4 961 (1978)
+
+46 Pd 110           374           44 ps           2+                   -0.47(3)                             ES    1976Li19      PR C14 952 (1976)
+
+Silver              Calculation of the quadrupole coupling constant in the Ag atom.
+
+47 Ag 101             0          11.1 m          9/2+                  +0.35(5)          [110Ag118keV]   CLS    1989Di12     NP A503 331 (1989)
+
+47 Ag 103             0          65.7 m          7/2+                  +0.84(9)          [110Ag118keV]   CLS    1989Di12     NP A503 331 (1989)
+
+47 Ag 104             0           69 m            5+                  +1.06(11)          [110Ag118keV]   CLS    1989Di12     NP A503 331 (1989)
+
+47 Ag 105            25           7.2 m          7/2+                 +0.85(11)          [110Ag118keV]   CLS    1989Di12     NP A503 331 (1989)
+
+47 Ag 106            90           8.3 d           6+                   1.11(11)          [110Ag118keV]   CLS    1989Di12     NP A503 331 (1989)
+
+47 Ag 107            93           44.3 s         7/2+                  0.98(11)          [110Ag118keV]   LMR    1986Be01      PR C33 390 (1986)
+
+
+
+35
+                                                                                                                      1984Be53        PR C30 2028 (1984)
+
+47 Ag 108            109           438 y     6+      +1.32(7)     [110Ag118keV]        O         1986Be01        PR C33 390 (1986)
+1984Be53        PR C30 2028 (1984)
+47 Ag 109            88            39.6 s   7/2+    (+)1.02(12)   [110Ag118keV]       LMR        1986Be01        PR C33 390 (1986)
+1984Be53        PR C30 2028 (1984)
+47 Ag 109            311           5.9 ps   3/2-      -0.7(3)                           CER        1972Th16         PL 41B 585 (1972)
+47 Ag 109            415           33 ps    5/2-      -0.3(3)                           CER        1972Th16         PL 41B 585 (1972)
+
+47 Ag 110             0            24.4 s    1+      0.24(12)                           QIR        1981Do17         HFI 10 727 (1981)
+
+Reference isomer       47 Ag 110                 118           250 d     6+     +1.44(10)                            O         1984Be53        PR C30 2028 (1984)
+
+Cadmium            There is no adopted reference efg for Cd.
+A. Efg in 2P5/2 state of the Cd ion                                                                2013Yo02       (PRL 110 192501 (2013)
+B Efg in Cd metal and dimethylcadmium.                                                             2017Ha15   Europhys Lett 117 62001 (2017)
+
+48 Cd 101             0           1.36 m    5/2+    -0.177(7)            A              CLS        2018Yo07         PR C98 011303(R)
+
+48 Cd 102           2718           39 ns     8+      0.76(9)       [efgCdinCd]      TDPAD       1992Al17          ZP A344 1 (1992)
+
+48 Cd 103             0            7.3 m    5/2+    -0.007(3)            A              CLS        2018Yo07         PR C98 011303(R)
+
+48 Cd 105             0           56 m      5/2+    +0.377(15)           A              OD         2018Yo07         PR C98 011303(R)
+48 Cd 105             2517          4.5 µs    21/2+    +0.88(10)           B             TDPAC       1978Sp09          HFI 4 229 (1978)
+
+48 Cd 106            633           5.1 ps    2+      -0.28(8)                           CER        1976Es02        NP A274 237 (1977)
+
+48 Cd 107             0           6.50 h    5/2+    +0.60(2)             A              CLS        2013Yo02       PRL 110 192501 (2013)
+48 Cd 107           846          71 ns     11/2-   -0.81(10)            B             TDPAC       1978Sp09          HFI 4 229 (1978)
+48 Cd 107           2679          55 ns     21/2+   +0.91(11)            B             TDPAC       1978Sp09          HFI 4 229 (1978)
+
+48 Cd 108            633           6.9 ps    2+      -0.45(8)                           CER        1976Es02        NP A274 237 (1977)
+
+48 Cd 109             0            461 d    5/2+     +0.60(3)            A               CLS       2013Yo02       PRL 110 192501 (2013)
+48 Cd 109             463          10.9 µs   11/2-   [-0.92(9)]      systematic      not measured   1978Sp09          HFI 4 229 (1978)
+extrapolation
+48 Cd 110            658           5.0 ps    2+      -0.40(4)                            ES        1977Gi13       J Phys G3 L169 (1977)
+
+48 Cd 111            245           84 ns    5/2+     +0.64(3)            B             TDPAC       1978Sp09          HFI 4 229 (1978)
+2017Ha15   Europhys Lett 117 62001 (2017)
+48 Cd 111            396          48.5 m    11/2-    -0.75(3)            A              CLS        2013Yo02       PRL 110 192501 (2013)
+
+48 Cd 112            617           6.5 ps    2+      -0.37(4)                            ES        1977Gi13       J Phys G3 L169 (1977)
+
+48 Cd 113            264           14.1 y   11/2-    -0.61(3)            A              CLS        2013Yo02       PRL 110 192501 (2013)
+
+48 Cd 114            558          10.2 ps    2+     -0.348(12)                           ES        1981Ko06        J Phys G7 L63 (1981)
+
+48 Cd 115            181          44.6 d    11/2-    -0.48(2)            A              CLS        2013Yo02       PRL 110 192501 (2013)
+
+
+
+
+36
+48 Cd 116            513          14.1 ps          2+             -0.42(4)                        ES     1977Gi13    J Phys G3 L169 (1977)
+
+48 Cd 117            136          3.36 h         11/2-           -0.320(13)          A            CLS    2013Yo02    PRL 110 192501 (2013)
+
+48 Cd 119            147          2.20 m         11/2-            -0.135(6)          A            CLS    2013Yo02    PRL 110 192501 (2013)
+
+48 Cd 121            215           8.3 s         11/2-           +0.009(6)           A            CLS    2013Yo02    PRL 110 192501 (2013)
+
+48 Cd 123            317          1.82 s         11/2-           +0.135(7)           A            CLS    2013Yo02    PRL 110 192501 (2013)
+
+48 Cd 125             0           0.68 s         3/2+            +0.209(10)          A            CLS    2013Yo02    PRL 110 192501 (2013)
+48 Cd 125             x           0.48 s         11/2-           +0.269(13)          A            CLS    2013Yo02    PRL 110 192501 (2013)
+
+48 Cd 127             0           0.37 s         3/2+            +0.239(11)          A            CLS    2013Yo02    PRL 110 192501 (2013)
+48 Cd 127             x              ? ?           11/2-            +0.34(2)           A            CLS    2013Yo02    PRL 110 192501 (2013)
+
+48 Cd 129             0           154 ms         3/2+            +0.132(9)           A            CLS    2013Yo02    PRL 110 192501 (2013)
+48 Cd 129             x           146 ms         11/2-            +0.57(3)           A            CLS    2013Yo02    PRL 110 192501 (2013)
+
+Indium              Calculated electric quadrupole interactions in the indium atom                                           2009Ya27   Can J Chem 87 802 (2009)
+
+49 In 104             0           1.7 m            5+            +0.63(10)         [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+49 In 105             0           5.07 m          9/2+            +0.79(5)         [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+49 In 106             0           6.2 m            7+             +0.92(6)         [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+49 In 107             0          32.4 min         9/2+            +0.77(5)         [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+49 In 108             0            58 m            7+             +0.957(7)        [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+49 In 108             30            40 m            2+            +0.445(13)       [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+49 In 109             0            4.2 h          9/2+            +0.80(3)         [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+49 In 110             0            4.9 h           2+             +0.32(2)         [113In]        AB     1968CaZX        TH 68 Cass.
+49 In 110             62           69.1 m           7+             +0.95(2)         [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+49 In 111             0           2.83 d          9/2+            +0.76(2)         [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+49 In 112             0          14.9 m            1+             +0.082(5)        [113In]         AB    1968CaZX        TH 68 Cass.
+49 In 112             157         20.6 m            4+            +0.681(10)        [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+49 In 112             351         0.69 µs           7+              1.00(3)     [117In660keV]   TDPAD   1993Io02      HFI 77 111 (1993)
+49 In 112             614         2.81 µs           8-             0.092(3)     [117In660keV]   TDPAD   1993Io02      HFI 77 111 (1993)
+
+Reference isotope   49 In 113             0           stable          9/2+            0.761(5)                       AB/MS   2018Py01   Mol Phys 116 1328 (2018)
+2009Ya27   Can J Chem 87 802 (2009)
+
+49 In 114            190          49.5 d           5+            +0.705(11)        [115In]       CFBLS   1987Eb02      NP A464 9 (1987)
+
+Reference isotope   49 In 115             0         4.4x1014 y        9/2+            0.772(5)                       AB/MS   2018Py01   Mol Phys 116 1328 (2018)
+2009Ya27   Can J Chem 87 802 (2009)
+
+
+
+37
+49 In 115            829          5.78 ns          3/2+               -0.59(4)             [117In660keV]           TDPAC                 1973Ha61                       JCP 58 3339 (1973)
+
+49 In 116             0            14.1 s           1+                 0.11(1)                 [115In]               NSLR                  1982Gr17                        NP A386 56 (1982)
+49 In 116            127           54.3 m           5+               +0.764(11)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+49 In 116            290           2.18 s           8-                +0.296(9)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 117             0            42 m            9/2+              +0.790(10)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+49 In 117             660          53.6 ns          3/2+               -0.57(4)                 [115In]               TDPAC                 1972Ra27                        PRL 28 54 (1972)
+
+49 In 118           ~60            4.45 m           5+                +0.759(8)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+49 In 118           ~200            8.5 s           8-                +0.420(7)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 119             0            2.4 m           9/2+               +0.814(7)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+49 In 119             654           130 ns          3/2+                0.59(4)                 [115In]               TDPAC                 1980HaYW                      ARHMI 1979 75 (1979)
+
+49 In 120            0+x           47.3 s           8-               +0.505(10)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+49 In 120            (70)          46.2 s           5+               +0.772(16)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 121             0            23.1 s          9/2+              +0.776(10)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 122           (40)           10.3 s           5+                +0.77(2)                 [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+49 In 122           ~262           10.8 s            8-                +0.56(2)                 [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 123             0            6.17 s          9/2+               +0.722(9)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 124             0            3.12 s           3+                 +0.58(7)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+49 In 124             190           3.7 s            8-                +0.631(9)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 125             0            2.50 s          9/2+               +0.68(3)                 [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 126             0            1.53 s           3+                +0.47(5)                 [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+49 In 126             (102)          1.64 s           8-               +0.651(11)                [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+49 In 127             0            1.09 s          9/2+               +0.56(3)                 [115In]               CFBLS                 1987Eb02                        NP A464 9 (1987)
+
+Tin   Calculation of the quadrupole coupling constants in many molecular tin compounds.                                                                                       J Phys Chem A112 1666 (2008)
+"A - relative to 117Sn 315 keV - calculation of quadrupole interaction in the 5p6s;3P1 state of the tin atom. At present this calculation is accurate only to, at best, +/- 10-20%."
+B-relative to 116Sn 3548 keV 10+ moment estimated from theory. Accuracy estimated at 10%.
+C- relative to 118Sn 3106 keV 10+ moment estimated from theory. Accuracy estimated at 10%.
+
+
+50 Sn 109             0            18.0 m          5/2+               +0.33(11)                   A                  ABLFS                 1987Eb01                       ZP A326 121 (1987)
+
+50 Sn 110           2478           5.6 ns           6+                 0.30(4)                    C                  TDPAD                 1989Vo17                    IAN Ser Fiz 53 2188 (1989)
+
+50 Sn 111             0            35.3 m          7/2+               +0.20(10)                   A                  ABLFS                 1987Eb01                       ZP A326 121 (1987)
+
+50 Sn 112           1257          0.38 ps           2+                 +0.04(9)                                       CER                   2015Al24                   PR C92 041303(R) (2015)
+50 Sn 112           2549          13.7 ns           6+                (-)0.25(5)                  B                  TDPAD                  1975Vi03                      NP A243 29 (1973)
+
+50 Sn 113            738           86 ns          11/2-               (-)0.41(4)                  B                  TDPAD                  1975Di02                       PL B55 293 (1975)
+
+
+
+38
+50 Sn 114   1300   0.42 ps     2+      +0.09(8)               CER        2015Al24     PR C92 041303(R) (2015)
+50 Sn 114   3087   733 ns      7-     (-)0.32(3)     B       TDPAD       1975Di02        PL B55 293 (1975)
+
+50 Sn 115   613    3.26 ps    7/2+    (-)0.26(3)     C       TDPAD       1976Be59        HFI 2 326 (1976)
+50 Sn 115   714    159 µs     11/2-    0.38(6)                QIR        1975Ri03      Phys Scr 11 228 (1975)
+
+50 Sn 116   1294   0.37 ps    2+        +0.17(8)               CER       2015Al24     PR C92 041303(R) (2015)
+50 Sn 116   2366   348 ns      5-      (-)0.26(3)    B       TDPAD       1975Di02        PL B55 293 (1975)
+50 Sn 116   3547   833 ns     10+     [(-)0.41(4)]   B    not measured   1975Di02        PL B55 293 (1975)
+
+50 Sn 117   315     14.0 d    11/2-    -0.42(5)      A       ABLFS       1986An24        PR C34 1052 (1986)
+
+50 Sn 118   1230   0.485 ps    2+      +0.07(9)                CER       2015Al24     PR C92 041303(R) (2015)
+50 Sn 118   2321    21.7 ns    5-     (-)0.22(3)     B       TDPAD       1975Di02        PL B55 293 (1975)
+50 Sn 118   2575    230 ns     7-       0.32(3)      C       TDPAD       1976Be59         HFI 2 326 (1976)
+50 Sn 118   3108   2.52 µs    10+     [0.41(4)]      C    not measured   1976Be59         HFI 2 326 (1976)
+
+Reference Isotope   50 Sn 119   24     18.0 ns    3/2+    -0.132(1)               ME         2018Py01      Mol Phys 116 1328 (2018)
+2008Ba56   J Phys Chem A112 1666 (2008)
+50 Sn 119   90     293.1 d    11/2-    -0.29(3)               ME         1972Be79          PL B42 349 (1972)
+
+50 Sn 120   1171   0.64 ps     2+      +0.02(7)               CER        1975Gr30        PR C12 1462 (1975)
+50 Sn 120   2284   5.55 ns     5-      0.046(2)              TDPAC       1970Wo02         ZP 232 256 (1970)
+
+50 Sn 121    0      27.1 h    3/2+     -0.02(2)      A       ABLFS       1986An24        PR C34 1052 (1986)
+50 Sn 121    6.3     43.9 y    11/2-    -0.14(3)      A       ABLFS       1986An24        PR C34 1052 (1986)
+
+50 Sn 122   1140   0.78 ps     2+      -0.08(9)               CER        2015Al24     PR C92 041303(R) (2015)
+
+50 Sn 123    0      129 d     11/2-    +0.03(4)      A       ABLFS       1986An24        PR C34 1052 (1986)
+
+50 Sn 124   1132   0.92 ps     2+      -0.08(9)               CER        2015Al24     PR C92 041303(R) (2015)
+
+50 Sn 125    0      9.64 d    11/2-    +0.2(2)       A       ABLFS       2005Le34         PR C72 034305
+50 Sn 125   28     9.5 m     3/2+     +0.86(8)      A       ABLFS       2004Le13       NP A734 437 (2004)
+
+50 Sn 126   1141   1.15 ps     2+       0.0(2)               CER         2011Al35        PR C84 1303 (2011)
+
+50 Sn 127    0      2.1 h     11/2-   +0.32(14)      A       ABLFS       2005Le34         PR C72 034305
+50 Sn 127    5     4.13 m     3/2+     +0.65(7)      A       ABLFS       2004Le13       NP A734 437 (2004)
+
+50 Sn 128   2492    2.9 µs    10+       -0.1(3)              CER         2011Al35        PR C84 1303 (2011)
+
+50 Sn 129   0      2.23 m     3/2+    +0.05(12)      A       ABLFS       2004Le13       NP A734 437 (2004)
+50 Sn 129   35      6.9 m     11/2-   -0.20(19)      A       ABLFS       2005Le34         PR C72 034305
+
+50 Sn 130   1947    1.7 m      7-     -0.39(12)      A       ABLFS       2005Le34          PR C72 034305
+
+50 Sn 131    0       56 s     3/2+     -0.04(9)      A       ABLFS       2004Le13       NP A734 437 (2004)
+50 Sn 131    242     58.4 s    11/2-     0.0(2)       A       ABLFS       2005Le34         PR C72 034305
+
+
+
+39
+"Antimony            Calculated efg's in SbN, SbP, SbF and SbCl molecues                                                        2006Ha63    J Chem Phys 125 064301 (2006)"
+
+51 Sb 112            796          536 ns              8-              1.06(2)        [121Sb]       TDPAD   1982Ma29          PR C26 493 (1982)
+
+"51 Sb 114            496          219 µs              8-             1.02(16)        [121Sb]       QIR,R   1982Ma29          PR C26 493 (1982)"
+
+51 Sb 115           2796          159 ns          19/2-               0.79(4)        [121Sb]       TDPAD   1983Se04         ZP A309 349 (1983)
+
+51 Sb 116           1159          10.6 ns             7+              2.5(6)         [121Sb]       TDPAD   1992Io01          ZP A343 21 (1992)
+
+51 Sb 117            0            2.80 h           5/2+               0.2(12)        [121Sb]        AB     1974Ek01         NP A226 219 (1974)
+"51 Sb 117            3131          355 µs         (25/2)+              1.14(5)        [121Sb]       QIR,R   1982Ma29          PR C26 493 (1982)"
+JPhys G3 713 (1977)
+51 Sb 117            3231          290 ns          23/2-               3.7(4)         [121Sb]       TDPAD   1988Io01         PL B 200 259 (1988)
+
+51 Sb 118             51          20.6 µs         (3)+                0.9(2)         [121Sb]       TDPAD   1982Ma29          PR C26 493 (1982)
+51 Sb 118           270          13.4 ns          3-                 0.39(8)        [121Sb]       TDPAD    1985Di07        ZP A320 613 (1985)
+51 Sb 118           965          22.6 ns          7+                 2.6(5)         [121Sb]       TDPAD    1988Io01        PL B 200 259 (1988)
+
+51 Sb 119           2554          130 ns          19/2-              3.18(13)        [121Sb]       TDPAD   1991Io02         NP A531 112 (1991)
+
+51 Sb 120            78           246 ns              3+              0.63(2)        [121Sb]       TDPAD   1982Ma29          PR C26 493 (1982)
+
+Reference Isotope   51 Sb 121             0           stable          5/2+              -0.543(11)                      O      2006Ha63    J Chem Phys 125 064301 (2006)
+1978Bu24         ZP A288 247 (1978)
+51 Sb 121            37           3.5 ns          7/2+              -0.727(16)       [121Sb]        ME     1970St13          PL A32 91 (1970)
+
+51 Sb 122            0            2.72 d              2-             +1.28(8)        [121Sb]         O     1960Fe08         PhMg 5 1309 (1960)
+51 Sb 122            61           1.86 µs             3+              0.63(2)        [121Sb]       TDPAD   1982Ma29          PR C26 493 (1982)
+
+Reference Isotope   51 Sb 123             0           stable          7/2+              -0.692(14)                      O      2006Ha63    J Chem Phys 125 064301 (2006)
+1978Bu24         ZP A288 247 (1978)
+
+51 Sb 124             0           60.2 d              3-              +2.8(2)        [121Sb]       NO/S    1985He16         ZP A322 281 (1985)
+
+Tellurium           There is no adopted reference efg for Te.
+A. Efg in the lased state of the Te atom calculated by semi-empirical methods
+
+52 Te 120           560           9.3 ps              2+              -0.41(3)                      CER    2018Sa37     Acta Phys Pol B49 541 (2018)
+52 Te 120           1162          3.2 ps              4+             -0.77(19)                     CER    2018Sa37     Acta Phys Pol B49 541 (2018)
+
+52 Te 122            564          7.46 ps             2+             -0.57(5)                       CER    1976Bo12          NP A261 498 A261
+
+52 Te 124            603          6.2 ps              2+             -0.45(5)                       CER    1976Bo12          NP A261 498 A261
+
+52 Te 125             36          1.48 ns         3/2+               -0.31(2)         [129I]        ME     1977La03             PR B15 2504
+52 Te 125            145          57.4 d          11/2-               0.0(2)            A           CLS    2006Si40          HFI 171 173 (2006)
+52 Te 125            321          673 ps           9/2-               0.12(7)     [125Te36keV]   IPAC    1976Va28           HFI 2 321 (1976)
+
+52 Te 126            666          4.52 ps             2+             -0.23(5)                       CER    1976Bo12          NP A261 498 A261
+
+
+40
+52 Te 127             88            106 d        11/2-     0.17(12)           A               CLS       2006Si40         HFI 171 173 (2006)
+
+52 Te 128             743           3.3 ps         2+       -0.22(5)                         CER        1976Bo12          NP A261 498 A261
+
+52 Te 129              0           69.6 m        3/2+      0.055(13)        [129I]          NO/ME       1987Be36         HFI 35 1023 (1987)
+52 Te 129              106          33.6 d        11/2-      0.40(3)           A              CLS        2006Si40         HFI 171 173 (2006)
+
+52 Te 130             840           2.3 ps         2+       -0.12(5)                         CER        1976Bo12          NP A261 498 A261
+
+52 Te 131             182           33.3 h       11/2-     0.25(14)           A               CLS       2006Si40         HFI 171 173 (2006)
+
+52 Te 133              0           12.5 m        3/2+      0.23(9)            A               CLS       2006Si40         HFI 171 173 (2006)
+52 Te 133              334          55.4 m        11/2-     0.28(14)           A               CLS       2006Si40         HFI 171 173 (2006)
+
+52 Te 135              0            19.0 s        7/2-      0.29(9)           A               CLS       2006Si40         HFI 171 173 (2006)
+
+Iodine              Calculated efg of states in the I atom.                                                                 2013Ch52    J Phys Chem A117 12616 (2013)
+
+53 I 125               0            59.4 d        5/2+     -0.752(17)       [127I]            MA        1958Fl39          PR 110 536 (1958)
+
+Reference isotope   53 I 127               0            stable        5/2+     -0.688(10)                         AB        1976Fu06           JPCR 5 835 (1976)
+2013Ch52    J Phys Chem A117 12616 (2013)
+53 I 127               58           1.95 ns        7/2+     -0.617(11)       [127I]            ME        1964Pe15            PL 13 198 (1964)
+
+"53 I 129               0          1.57x107 y      7/2+      -0.483(8)       [127I]           Q,MA       1953Li16          PR 90 609 (1953)"
+53 I 129               28           16.8 ns        5/2+     -0.598(10)       [127I]            ME        1972Ro41         NIM 105 509 (1972)
+
+53 I 131               0           8.03 d         7/2+      -0.34(2)        [127I]            AB        1960Li13         PR 119 2022 (1960)
+53 I 131               150          0.95 ns        5/2+       0.30(1)        [129I]          TDPAC       2020Al17      Eur Phys J A56 269 (2020)
+53 I 131               1797           5.9 ns       (15/2)-     0.66(6)     [129I28keV]      TDPAC       1973Ha61         JCP 58 3339 (1973)
+
+53 I 132               0           2.30 h          4+       0.08(1)         [127I]            AB        1960Wh06          BAPS 5 504 (1960)
+53 I 132               50           7.14 ns         3+       0.25(2)         [129I]          TDPAC        2020Al17     Eur Phys J A56 269 (2020)
+53 I 132               278          1.42 ns         1+      -0.148(5)        [129I]          TDPAC       1979Oo01        NP A321 180 (1979)
+
+53 I 133               0            20.8 h        7/2+      -0.23(1)        [127I]            AB        1961Al20          UCRL 9850 (1960)
+
+Xenon               Calculated efg in Xe molecular systems                                                                  2016Ca 44   Chem Phys Lett 660 228 (2016)
+A - Q estimated from B(E2)
+B - Efg estimated from systematics in Te metal
+
+54 Xe 117              0           1.02 m         5/2+     +1.14(4)       [131Xe]            CLS       1990NeZY          PC Neugart (1990)
+
+54 Xe 119              0            5.8 m         5/2+     +1.29(5)        [131Xe]            CLS       1990NeZY          PC Neugart (1990)
+
+54 Xe 121              0           40.1 m         5/2+     +1.31(5)        [131Xe]            CLS       1990NeZY          PC Neugart (1990)
+
+54 Xe 123             185          5.5 µs        7/2(-)      1.4(3)     [125Xe296keV]     TDPAD       1982Ze05         ZP A308 227 (1982)
+54 Xe 123             206          11.8 ns        9/2-       1.1(6)     [125Xe296keV]   TDPAD(ampl)   1982Ze05         ZP A308 227 (1982)
+
+
+
+
+41
+54 Xe 125            253           57 s        9/2-    +0.417(15)   [131Xe]        CLS       1990NeZY      PC Neugart (1990)
+54 Xe 125            296          140 ns       7/2+     1.40(15)       A      not measured   1982Ze05      ZP A308 227 (1982)
+
+54 Xe 127            297          1.15 m       9/2-     +0.68(2)    [131Xe]       CLS        1990NeZY      PC Neugart (1990)
+
+54 Xe 129             40          0.97 ns      3/2+    -0.393(10)   [131Xe]       ME         1964Pe06     PR 135B 1102 (1964)
+54 Xe 129             236          8.88 d       11/2-    +0.63(2)    [131Xe]       CLS        1990NeZY      PC Neugart (1990)
+
+54 Xe 130            536              8.6 ps    2+     -0.38(16)                  CER        2020Mo35    PR C102 054304 (2020)
+54 Xe 130            1205              2.4 ps    4+     -0.41(12)                  CER        2020Mo35    PR C102 054304 (2020)
+
+Reference isotope   54 Xe 131             0               stable   3/2+    -0.114(1)                  CLS        1989Bo03       PL B216 7 (1989)
+54 Xe 131            164              11.8 d   11/2-   +0.72(3)     [131Xe]       CLS        1990NeZY      PC Neugart (1990)
+
+54 Xe 132           2214              87 ns     7-      0.010(5)      B          TDPAD       1987Le31     UkrF 32 1636 (1987)
+
+54 Xe 133             0               5.25 d   3/2+    +0.140(5)    [131Xe]       CLS        1990NeZY      PC Neugart (1990)
+54 Xe 133             233              2.20 d   11/2-    +0.76(5)    [131Xe]       CLS        1990NeZY      PC Neugart (1990)
+
+54 Xe 135             0           9.14 h       3/2+    +0.210(7)    [131Xe]       CLS        1990NeZY      PC Neugart (1990)
+54 Xe 135             527          15.3 m       11/2-    +0.61(2)    [131Xe]       CLS        1990NeZY      PC Neugart (1990)
+
+54 Xe 137             0           3.82 m       7/2-     -0.47(2)    [131Xe]       CLS        1989Bo03       PL B216 7 (1989)
+
+54 Xe 139             0               39.7 s   3/2-     +0.39(2)    [131Xe]       CLS        1989Bo03       PL B216 7 (1989)
+
+54 Xe 141             0               1.73 s   5/2+     -0.57(2)    [131Xe]       CLS        1989Bo03       PL B216 7 (1989)
+
+54 Xe 143             0               0.51 s   5/2-     +0.91(3)    [131Xe]       CLS        1989Bo03       PL B216 7 (1989)
+
+
+Caesium             Calculated efg in CsF molecule.                                                              2008Py02   Mol Phys 106 1965 (2008)
+A - estimated efg at Cs in Ga metal
+
+55 Cs 118             0                14 s     2      +1.31(17)    [133Cs]      ABLS        1987Co19      NP A468 1 (1987)
+
+55 Cs 119            0                 43 s    9/2+    +2.65(17)    [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+55 Cs 119            0+x               30.4 s   3/2+    +0.85(12)    [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+
+55 Cs 120             0               61.3 s    2+      +1.36(7)    [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+
+55 Cs 121             0               155 s    3/2+    +0.79(4)     [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+55 Cs 121             68              122 s    9/2+    +2.53(13)    [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+
+55 Cs 122             0                21 s     1+     -0.179(10)   [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+55 Cs 122             ¬140             3.7 m     8-      +3.09(8)    [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+
+55 Cs 124             0                31 s     1+      -0.69(4)    [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+
+55 Cs 126             0           1.64 m        1+      -0.64(3)    [133Cs]      ABLS        1981Th06      NP A367 1 (1981)
+
+
+
+
+42
+55 Cs 127             66           24.9 ns    5/2(+)     0.58(12)           A          TDPAC   1999Co22     NIM B152 357 (1999)
+
+55 Cs 128              0            3.6 m      1+        -0.54(3)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 130              0           29.2 m      1+       -0.056(6)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+55 Cs 130              0+x          3.46 m      5(-)     +1.36(8)         [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 131              0            9.69 d    5/2+       +0.59(2)        [133Cs]        ABLS   1975Ac01     NP A248 157 (1975)
+55 Cs 131              134           8.6 ns    5/2+        0.20(2)     [133Cs81keV]   TDPAC   2000De13   Eur Phys J A7 177 (2000)
+
+55 Cs 132              0            6.48 d     2(-)      +0.48(2)        [133Cs]       ABLS    1975Ac01     NP A248 157 (1975)
+
+Reference isotope   55 Cs 133             0            stable     7/2+     -0.00343(10)                     MB     1998Pe18     JCP 108 6739 (1998)
+55 Cs 133             81           6.28 ns    5/2+        0.30(2)        [133Cs]        ME     1977Ca30     PR B15 3318 (1977)
+
+55 Cs 134              0            2.06 y     4+        +0.37(2)        [133Cs]       ABLS    1975Ac01     NP A248 157 (1975)
+55 Cs 134             139           2.91 h     8-        +0.92(8)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+6
+55 Cs 135              0           2.3x106 y   7/2+      +0.048(3)        [133Cs]       ABLS    1975Ac01     NP A248 157 (1975)
+55 Cs 135             1633            53 m     19/2-      +0.83(7)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 136              0            13.2 d     5+      +0.213(15)        [133Cs]       ABLS    1975Ac01     NP A248 157 (1975)
+55 Cs 136              0+x            19 s      8-       +0.70(3)         [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 137              0            30.1 y    7/2+      +0.048(2)        [133Cs]       ABLS    1975Ac01     NP A248 157 (1975)
+
+55 Cs 138             0            33.4 m       3-     +0.112(17)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+55 Cs 138             80            2.9 m       6-      -0.37(5)         [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 139              0            9.3 m     7/2+      -0.063(14)       [133Cs]       ABLS    1979Bo01      ZP A289 227 (1979)
+
+55 Cs 140              0            63.7 s      1-      -0.094(15)       [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 141              0            24.8 s    7/2+       -0.42(7)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 143              0            1.79 s    3/2+       +0.44(3)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 144              0            0.99 s     1(-)      +0.29(2)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 145              0            0.59 s    3/2+       +0.58(6)        [133Cs]       ABLS    1981Th06      NP A367 1 (1981)
+
+55 Cs 146              0            0.32 s      1-       +0.21(3)        [133Cs]       ABLS    1987Co19      NP A468 1 (1987)
+
+Barium              Efg calculations in the d states of Ba+                                                        2018Py01   Mol Phys 116 1328 (2018)
+
+56 Ba 121              0             30 s     5/2(+)    +1.89(13)        [135Ba]        CLS    1988We14      PL B211 272 (1988)
+
+56 Ba 123              0            2.7 m     5/2+      +1.57(13)        [135Ba]        CLS    1988We14      PL B211 272 (1988)
+
+56 Ba 127             80             1.9 s    7/2(-)    +1.71(14)        [135Ba]        CLS    1992Da06    J Phys G 17 L67 (1992)
+
+
+
+
+43
+56 Ba 129             8.4          2.14 h       7/2+                +1.68(14)         [135Ba]    CLS    1979Be25         ZP A291 219 (1979)
+
+56 Ba 130            357            42 ps        2+        -1.02(15)or-0.09(15)                CER    1989Bu07         NP A494 102 (1989)
+56 Ba 130            2476          9.4 ms        8-               +2.31(6)            [135Ba]    CLS    2002Mo31         PL B547 200 (2002)
+
+56 Ba 131            188           14.6 m       9/2-                +1.54(14)         [135Ba]    CLS    1983Mu12         NP A403 234 (1983)
+
+56 Ba 133            288           38.9 h       11/2-               +0.92(6)          [135Ba]    CLS    1979Be25         ZP A291 219 (1979)
+
+56 Ba 134            605           5.1 ps        2+        -0.26(12)or+0.15(12)                CER    1989Bu07         NP A494 102 (1989)
+
+Reference isotope   56 Ba 135             0            stable       3/2+                +0.153(2)                   CFBLS   1984We15         ZP A318 125 (1984)
+56 Ba 135             268           28.7 h       11/2-               +0.99(15)         [135Ba]    CLS    1979Be25         ZP A291 219 (1979)
+
+56 Ba 136            819           1.93 ps       2+            -0.19(6)or+0.07(7)              CER    1986Ro15         PR C34 732 (1986)
+
+Reference isotope   56 Ba 137             0            stable       3/2+                +0.236(3)                   CFBLS   1984We15         ZP A318 125 (1984)
+56 Ba 137             662           2.55 m       11/2-               +0.82(10)         [135Ba]    CLS    1983Mu12         NP A403 234 (1983)
+
+56 Ba 138            1436          0.20 ps       2+            -0.14(6)or+0.08(6)              CER    1989Bu07         NP A494 102 (1989)
+
+56 Ba 139              0           83.1 m       7/2-               -0.552(13)         [135Ba]   CFBLS   1988We07         ZP A329 407 (1988)
+
+56 Ba 140            602               9 ps      2+                  -0.5(3)                     CER    2012Ba40        PR C86 034310 (2012)
+
+56 Ba 141              0           18.3 m       3/2-               +0.437(10)         [135Ba]   CFBLS   1988We07         ZP A329 407 (1988)
+
+56 Ba 143              0               14.5 s   5/2(+)              -0.85(2)          [135Ba]   CFBLS   1988We07         ZP A329 407 (1988)
+
+56 Ba 145              0               4.31 s   5/2(-)              +1.18(2)          [135Ba]   CFBLS   1988We07         ZP A329 407 (1988)
+
+Lanthanum           Calculated efg in 1D2 state of La+.                                                                     2011It09   Theor Chem Acc 129 409 (2011)
+A Calculated efg for La in Te metal.                                                                    2020La06      PR C101 034315 (2020)
+
+57 La 133            536               62 ns    11/2-                1.7(3)             A       TDPAD   2020La06       PR C101 034315 (2020)
+
+57 La 135              0           19.5 h       5/2+                 -0.4(4)          [139La]    CLS    2003Ii03        PR C68 054328 (2003)
+
+57 La 137              0           6x104 y      7/2+                +0.21(4)          [139La]    CLS    2003Ii03        PR C68 054328 (2003)
+
+57 La 138              0          1.0x1011 y     5+                 +0.39(3)          [139La]    CLS    2003Ii03        PR C68 054328 (2003)
+
+Reference isotope   57 La 139              0           stable       7/2+                +0.206(4)                    LRS    2006Sc30     Physica Scripta 73 217 (2006)
+2011It09   Theor Chem Acta 129 409 (2011)
+
+57 La 140              0           40.3 h        3-                +0.087(13)         [139La]   NO/S    1966Bl05         PR 143 911 (1966)
+
+Cerium              There is no adopted efg calculation for cerium.
+A. Normalised to nuclear model estimate of Q 138Ce 3538 keV.
+
+58 Ce 129            108               60 ns    (7/2-)              1.32(13)            A       TDPAD   1998Io01         NP A633 459 (1998)
+
+
+44
+58 Ce 130          2454             100 ns       7-                 1.8(2)                  A          TDPAD       1999Io02   PR C60 024316 (1999)
+
+58 Ce 131           162             88 ns       9/2-               0.92(10)                 A          TDPAD       1998Io01    NP A633 459 (1998)
+
+58 Ce 134          3209             308 ns       10+              +1.32(12)                 A          TDPAD       1983Da29   HFI 15/16 101 (1983)
+
+58 Ce 136          3095             2.2 µs       10+              +1.11(11)                 A          TDPAD       1983Da29   HFI 15/16 101 (1983)
+
+58 Ce 138          3539             81 ns        10+         estimated +0.77 eb                     not measured   1983Da29   HFI 15/16 101 (1983)
+
+58 Ce 140          2083             3.4 ns       4+                 0.35(7)               [139La]      TDPAC       1973KlZV    JPSJ 34 265 (1973)
+
+58 Ce 142           641             5.6 ps       2+          -0.16(5)or-0.37(5)                       CER        1988Ve08    PR C38 2982 (1988)
+1989Sp07    AuJP 42 345 (1989)
+
+Praseodymium        Efg calculated in the Pr ion with estimated Sternheimer correction (1994Il01)
+141
+N.B. Deviation from standard adopted by Pyykko (2008Py02) who gives Q Pr -0.059(4) b.
+
+Reference isotope   59 Pr 141            0              stable      5/2+               -0.077(6)                            CLS        1994Ii01    PR C50 661 (1994)
+
+59 Pr 142            0              19.1 h       2-               0.039(17)               [141Pr]       AB         1962Ca10    PR 126 1004 (1962)
+
+59 Pr 143            0          13.57 d         7/2+              +0.77(16)               [141Pr]       CLS        1994Ii01    PR C50 661 (1994)
+
+Neodymium           Efg calculated in the Nd ion with estimated Sternheimer correction
+N.B. Deviation from standard adopted by Pyykko (2008Py02) who gives Q 143Nd -0.63(6) b.
+
+60 Nd 135            0              12.4 m      9/2-                +1.9(5)               [143Nd]       CLS        1992Le09   JPhys G18 1177 (1992)
+
+60 Nd 139            0              29.7 m      3/2+               +0.28(9)               [143Nd]       CLS        1992Le09   JPhys G18 1177 (1992)
+
+60 Nd 141            0              2.49 h      3/2+              +0.32(13)               [143Nd]       CLS        1992Le09   JPhys G18 1177 (1992)
+
+Reference isotope   60 Nd 143            0              stable      7/2-               -0.61(2)                             AB         1992Au04     ZP D23 19 (1992)
+
+60 Nd 144           697          2.97 ps         2+           -0.15(6)or-0.28(6)                      CER        1989Sp07    AuJP 42 345 (1989)
+
+60 Nd 145            0              stable      7/2-              -0.314(12)              [143Nd]       AB         1992Au04     ZP D23 19 (1992)
+
+60 Nd 146           454          20.9 ps         2+                -0.78(9)                             CER        1970Ge08    NP A151 252 (1970)
+
+60 Nd 147            0              11.0 d      5/2-                +0.9(3)               [143Nd]       AB         1970PiZR    BAPS 15 769 (1970)
+
+60 Nd 148           302             80 ps        2+                -1.46(13)                            CER        1970Ge08    NP A151 252 (1970)
+
+60 Nd 149            0              1.73 h      5/2-                +1.3(3)               [143Nd]       AB         1970PiZR    BAPS 15 769 (1970)
+
+60 Nd 150           130          1.48 ns         2+                 -2.0(5)                             CER        1970Ge08    NP A151 252 (1970)
+
+Promethium          Empirical efg estimate in Pm atom
+
+
+45
+61 Pm 145            0           17.7 y     5/2+    +0.23(8)      [147Pm]      CLS    1992Al03      JP B25 571 (1992)
+
+Reference isotope   61 Pm 147            0          2.623 y     7/2+    +0.74(20)                  O      1966Re04     PR 141 1123 (1966)
+
+61 Pm 148            0           5.37 d      1-      +0.2(2)      [147Pm]      AB     1963Bu14      PR 132 723 (1963)
+
+61 Pm 151            0           28.4 h     5/2+     2.2(9)      [147Pm]      AB     1963Bu14      PR 132 723 (1963)
+
+Samarium            Muonic atom X-ray hyperfine structure
+
+62 Sm 140          3172         19.4 ns     10+       1.7(5)     [154Sm82]   TDPAD   1985Be23      ZP A321 403 (1985)
+
+62 Sm 141           176         22.6 m      11/2-    +1.6(5)      [147Sm]      CLS    1992Le09    JPhys G18 1177 (1992)
+
+62 Sm 142          2372          170 ns      7-      +1.1(3)     [154Sm82]   TDPAD   1985Be23      ZP A321 403 (1985)
+1986Da22       PL B181 21 (1986)
+
+62 Sm 143            0          8.75 m      3/2+     +0.4(2)      [147Sm]      CLS    1992Le09    JPhys G18 1177 (1992)
+
+62 Sm 145            0           340 d      7/2-     -0.60(7)     [147Sm]     LRFS    1990En01     JPhys G16 105 (1990)
+
+Reference isotope   62 Sm 147            0         1.1x1011 y   7/2-     -0.26(3)                 Mu-X    2008Py02   Mol Phys 106 1965 (2008)
+1981Ba28     NP A364 446 (1981)
+62 Sm 147            121         0.80 ns     5/2-     -0.5(2)      [147Sm]      ME     1971Pa04       PR C3 841 (1971)
+
+62 Sm 148           550          7.7 ps      2+      -1.0(3)                   CER    1989Ra17      JPSJ 34 443 (1973)
+
+62 Sm 149            0           stable     7/2-    +0.075(8)     [147Sm]      AB     1972Ch55      PR A6 2011 (1972)
+1992Le09    JPhys G18 1177 (1992)
+62 Sm 149            23           7.3 ns     5/2-    +1.01(9)      [147Sm]     Mu-X    1981Ba28     NP A364 446 (1981)
+
+62 Sm 150           334          48 ps       2+      -1.3(2)                   CER    1973Gr06      PRL 30 453 (1973)
+
+62 Sm 151            0            90 y      5/2-    +0.71(7)      [147Sm]     LRFS    1990En01     JPhys G16 105 (1990)
+
+Reference isotope   62 Sm 152           122         1.40 ns      2+     -1.666(16)                Mu-X    1979Po05     NP A316 295 (1979)
+
+62 Sm 153            0           46.3 h     3/2+    +1.30(12)     [147Sm]     LRFS    1990En01     JPhys G16 105 (1990)
+
+Reference isotope   62 Sm 154           82           3.0 ns      2+      -1.87(4)                 Mu-X    1979Po05     NP A316 295 (1979)
+
+62 Sm 155            0          22.3 m      3/2-    1.13(13)      [147Sm]      AB     1976Fu06      JPCR 5 835 (1976)
+
+Europium            Muonic atom X-ray hyperfine structure
+
+63 Eu 140          0+x           1.51 s     1(+)    +0.31(4)      [153Eu]      CLS    1985Ah02      ZP A321 35 (1985)
+
+63 Eu 141            0           40.7 s     5/2+    +0.85(4)      [153Eu]      CLS    1985Ah02      ZP A321 35 (1985)
+
+63 Eu 142            0           2.4 s       1+     +0.12(5)      [153Eu]      CLS    1985Ah02      ZP A321 35 (1985)
+
+
+
+46
+63 Eu 142            0+x          1.22 m     8-      +1.41(6)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 143            0           2.6 m    5/2+     +0.51(3)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 144            0            10 s     1+      +0.10(3)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 145            0           5.93 d   5/2+     +0.29(2)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 146            0           4.61 d    4-      -0.18(6)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 147            0           24.1 d   5/2+     +0.55(3)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 148            0           54.5 d    5-      +0.35(6)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 149            0           93.1 d   5/2+     +0.75(2)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 150            0           36.9 y    5(-)    +1.13(5)    [153Eu]    CLS    1985Ah02    ZP A321 35 (1985)
+
+63 Eu 151            0           stable   5/2+    +0.903(10)   [153Eu]   Mu-X    1984Ta04   PR C29 1830 (1984)
+63 Eu 151            22           9.6 ns   7/2+     +1.28(2)              Mu-X    1984Ta05   PR C29 1897 (1984)
+
+63 Eu 152            0          13.52 y    3-      +2.72(3)    [153Eu]    CLS    1986Al33   YadF 44 1134 (1986)
+
+Reference isotope   63 Eu 153             0         stable    5/2+     +2.41(2)              Mu-X    1984Ta04   PR C29 1830 (1984)
+63 Eu 153             83         0.79 ns   7/2+     +0.44(2)              Mu-X    1984Ta05   PR C29 1897 (1984)
+63 Eu 153             103         3.85 ns   3/2+    +1.253(12)   [153Eu]    ME     1973Ar19    PL A44 279 (1973)
+
+63 Eu 154            0           8.6 y     3-     +2.85(10)    [153Eu]    CLS    1986Al33   YadF 44 1134 (1986)
+
+63 Eu 155            0           4.75 y   5/2+     +2.5(3)     [153Eu]    CLS    1990Al34   ZP A337 257 (1990)
+
+63 Eu 157            0           15.2 h   5/2+     +2.6(3)     [153Eu]    CLS    1990Al34   ZP A337 257 (1990)
+
+63 Eu 158            0          45.9 m     1(-)   +0.66(14)    [153Eu]    CLS    1990Al34   ZP A337 257 (1990)
+
+63 Eu 159            0          18.1 m    5/2+     +2.7(3)     [153Eu]    CLS    1990Al34   ZP A337 257 (1990)
+
+Gadolinium          Muonic atom X-ray hyperfine structure
+
+64 Gd 144          3433         145 ns    10+      -1.40(6)    [155Gd]   TDPAD   1982Ha20   NP A379 287 (1982)
+1985Da20   NP A443 135 (1985)
+
+64 Gd 147           997         21.4 ns   13/2+    -0.70(8)    [155Gd]   TDPAD   1982Ha20   NP A379 287 (1982)
+1985Da20   NP A443 135 (1985)
+64 Gd 147           3582          27 ns    27/2-    -1.21(9)    [155Gd]   TDPAD   1982Ha20   NP A379 287 (1982)
+1985Da20   NP A443 135 (1985)
+64 Gd 147           8587         510 ns    49/2+   -3.00(18)    [155Gd]   TDPAD   1982Ha20   NP A379 287 (1982)
+1985Da20   NP A443 135 (1985)
+
+64 Gd 148          2695         16.6 ns    9-      0.96(5)     [155Gd]   TDPAD   1982Ha20   NP A379 287 (1982)
+
+
+
+
+47
+64 Gd 154            123          1.18 ns         2+                -1.82(4)                           Mu-X      1983La08   PR C27 1772 (1983)
+
+Reference isotope   64 Gd 155             0           stable         3/2-               +1.27(3)                           Mu-X      1983La08   PR C27 1772 (1983)
+64 Gd 155             87           6.50 ns        5/2+              +0.110(8)                [155Gd]     ME       1974Ar23   NP A233 385 (1974)
+64 Gd 155             105          1.16 ns        3/2+               +1.27(5)                [155Gd]     ME       1974Ar23   NP A233 385 (1974)
+
+64 Gd 156             89          2.21 ns         2+                -1.93(4)                           Mu-X      1983La08   PR C27 1772 (1983)
+
+Reference isotope   64 Gd 157              0           stable        3/2-               +1.35(3)                           Mu-X      1983La08   PR C27 1772 (1983)
+64 Gd 157              64          0.46 µs        5/2+               +2.43(7)                [157Gd]     ME       1974Ar23    NP A233 385 (74)
+
+64 Gd 158             80          2.52 ns         2+                -2.01(4)                           Mu-X      1983La08   PR C27 1772 (1983)
+
+64 Gd 160             75          2.72 ns         2+                -2.08(4)                           Mu-X      1983La08   PR C27 1772 (1983)
+
+Terbium             Muonic atom X-ray hyperfine structure
+A. Efg estimate at Tb in yttrium ethylsuphate
+
+65 Tb 148             0            60 m           2-                 -0.3(2)                [159Tb]     CLS      1990Al36   ZP A337 367 (1990)
+
+65 Tb 150           0+x           3.48 h          2(-)              0.00(13)                [159Tb]     CLS      1990Al36   ZP A337 367 (1990)
+
+65 Tb 152             0           17.5 h          2-               +0.34(13)                [159Tb]     CLS      1990Al36   ZP A337 367 (1990)
+
+65 Tb 153             0           2.34 d         5/2+              +1.08(14)                [159Tb]     CLS      1990Al36   ZP A337 367 (1990)
+
+65 Tb 154           0+x            9.4 h          3-                +2.4(13)                [159Tb]    NO/S      1983Be03   JPhys G9 213 (1983)
+
+65 Tb 155             0           5.32 d         3/2+               +1.41(6)                [159Tb]     CLS      1990Al36   ZP A337 367 (1990)
+
+65 Tb 156             0           5.35 d          3-                +2.3(8)                 [159Tb]    NO/S      1979Ri17   CzJP B29 620 (1979)
+1983Be03   JPhys G9 213 (1983)
+
+65 Tb 157             0             71 y         3/2+               +1.40(8)                [159Tb]     CLS      1990Al36   ZP A337 367 (1990)
+
+65 Tb 158             0            180 y          3-                 +2.7(5)                   A      EPR/NO/S   1968Ea04   PR 170 1083 (1968)
+
+Reference isotope   65 Tb 159             0            stable        3/2+              +1.432(8)                           Mu-X      1984Ta04   PR C29 1830 (1984)
+
+65 Tb 160             0           72.3 d          3-                +3.85(5)                [159Tb]   NMR/ON     1987Ma42    PRL 59 1764 (1987)
+
+65 Tb 161             0           6.89 d         3/2+               +1.3(6)                 [159Tb]    NO/S      1983Ri15     HFI 15 83 (1(83)
+
+Dysprosium          Muonic atom X-ray hyperfine structure
+"A. Unpublished results from Neugart, PC to Raghavan (1987). No information on interaction analysis."
+B. Analysis of perturbation of TDPAC in liquid sources
+
+66 Dy 147            751            55 s        (11/2-)            +0.67(10)                   A        CLS      1989Ra17   ADNDT 42 189 (1989)
+
+66 Dy 149             0            4.2 m         7/2-               -0.62(5)                   A        CLS      1989Ra17   ADNDT 42 189 (1989)
+
+
+
+
+48
+66 Dy 151             0           17.9 m    7/2-    -0.30(5)      A        CLS    1989Ra17    ADNDT 42 189 (1989)
+
+66 Dy 153             0            6.4 h    7/2-    -0.15(9)    [163Dy]    AB     1973Ek01       PS 7 31 (1973)
+
+66 Dy 155             0            9.9 h    3/2-    +0.96(2)    [163Dy]    AB     1973Ek01       PS 7 31 (1973)
+
+66 Dy 157             0           8.14 h    3/2-    +1.29(2)    [163Dy]    AB     1973Ek01       PS 7 31 (1973)
+
+66 Dy 159             0           144 d     3/2-    +1.37(2)      A        CLS    1989Ra17    ADNDT 42 189 (1989)
+
+66 Dy 160            87           2.02 ns    2+      1.8(4)       B       TDPAC   1970Wa25     ZP A238 35 (1970)
+
+66 Dy 161            0            stable    5/2+    +2.51(2)    [163Dy]    AB     1974Fe05      PL A49 287 (1974)
+66 Dy 161            26           29.1 ns   5/2-     +2.51(2)   [161Dy]    ME     1973St23     JPCR 5 1093 (1973)
+66 Dy 161            44           0.83 ns   7/2+    +0.53(13)   [161Dy]    ME     1973Sy01      PR C7 2056 (1973)
+66 Dy 161            75           3.14 ns   3/2-     +1.45(6)   [161Dy]    ME     1973St23     JPCR 5 1093 (1973)
+
+Reference isotope   66 Dy 163             0           stable    5/2-    +2.65(2)              Mu-X    1984Ta04    PR C29 1830 (1984)
+
+66 Dy 164            73           2.39 ns    2+     -2.08(15)   [161Dy]    ME     1968Mu01    ZP A208 184 (1968)
+
+66 Dy 165             0           2.33 h    7/2+    +3.48(7)    [161Dy]    AB     1968 Ra03   PR 165 1360 (1968)
+
+Holmium             Pionic atom X-ray hyperfine structure                  n
+
+67 Ho 152             0           161.8 s    2-      +0.1(2)    [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+67 Ho 152             160          49.8 s     9+      -1.3(8)    [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 153             0           2.01 m    11/2-    -1.1(5)    [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 154             0          11.76 m     2-     +0.19(10)   [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+67 Ho 154             320          3.10 m     8+      -1.0(5)    [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 155             0            48 m     5/2+    +1.56(12)   [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 156             0            56 m     4(+)    +2.40(18)   [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 157             0           12.6 m    7/2-    +3.05(13)   [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 158            0            11.3 m     5+      +4.2(4)    [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+67 Ho 158            67.2           28 m      2-     +1.66(17)   [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 159             0          33.05 m    7/2-    +3.27(13)   [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 160            0            25.6 m     5+      +4.0(2)    [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+67 Ho 160            60           5.02 h     2-     +1.83(17)   [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 161             0           2.48 h    7/2-    +3.30(11)   [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+67 Ho 162            106           67 m      6-      +4.0(7)    [165Ho]   LRIS    1989Al27    NP A504 549 (1989)
+
+
+
+
+49
+67 Ho 163            0           4570 y          7/2-     +3.7(6)    [165Ho]   LRIS   1989Al27   NP A504 549 (1989)
+
+Reference isotope   67 Ho 165            0           stable          7/2-    +3.58(2)              Pi-X   1983Ol03   NP A403 572 (1983)
+67 Ho 165            95          22 ps           9/2-    +3.52(4)    [165Ho]   Mu-X   1976Po05   NP A262 493 (1976)
+
+Erbium              Muonic atom X-ray hyperfine structure
+A - Estimated efg in Er metal.
+
+68 Er 153            0           37.1 s         (7/2-)   -0.42(2)    [167Er]   CLS    1987OtZW   CERN EP 87/51 (1987)
+
+68 Er 155            0            5.3 m          7/2-    -0.27(2)    [167Er]   CLS    1987OtZW   CERN EP 87/51 (1987)
+
+68 Er 157            0           18.7 m          3/2-    +0.92(1)    [167Er]   CLS    1987OtZW   CERN EP 87/51 (1987)
+
+68 Er 159            0            36 m           3/2-    +1.17(1)    [167Er]   CLS    1987OtZW   CERN EP 87/51 (1987)
+
+68 Er 161            0           3.21 h          3/2-    +1.363(8)   [167Er]   AB     1972Ek03   NP A194 237 (1972)
+
+68 Er 162           102          1.29 ns          2+        <0                 CER    1981Hu02    PR C23 240 (1981)
+68 Er 162           901          1.25 ps          2+      1.8(6)               CER    1983Hu01    PR C27 550 (1983)
+
+68 Er 163            0           75.0 m          5/2-    +2.56(2)    [167Er]   CLS    1987OtZW   CERN EP 87/51 (1987)
+
+68 Er 164           92           1.48 ns          2+        <0                 CER    1981Hu02    PR C23 240 (1981)
+68 Er 164           860           1.9 ps          2+      2.4(3)               CER    1983Hu01    PR C27 550 (1983)
+
+68 Er 165            0           10.36 h         5/2-    +2.71(3)    [167Er]   CLS    1987OtZW   CERN EP 87/51 (1987)
+
+68 Er 166           81           1.81 ns          2+      -1.9(4)      A       ME     1965Hu01    ZP 182 499 (1965)
+68 Er 166           265          118 ps           4+      -2.7(9)              CER    1970McZQ   ORNL 4513 56 (1970)
+68 Er 166           786           3.1 ps          2+       2.2(3)              CER    1983Hu01    PR C27 550 (1983)
+
+Reference isotope   68 Er 167            0           stable          7/2+    +3.57(3)              Mu-X   1984Ta04    PR C29 1830 (1984)
+
+68 Er 168           264          114 ps           4+     -2.2(10)              CER    1970McZQ   ORNL 4513 56 (1970)
+68 Er 168           821          2.8 ps           2+      2.3(2)               CER    1983Hu01    PR C27 550 (1983)
+
+68 Er 170            79          1.89 ns          2+      -1.9(2)              CER    1973Lu02    PR C8 391 (1973)
+68 Er 170            260             ? ?             4+     -2.2(10)              CER    1970McZQ   ORNL 4513 56 (1970)
+68 Er 170            934          1.81 ps          2+      2.0(3)               CER    1983Hu01    PR C27 550 (1983)
+
+68 Er 171            0           7.52 h          5/2-     2.86(9)    [167Er]   AB     1964Bu09   PR 135 B1281 (1964)
+
+Thulium             There is no adopted reference efg for Tm.
+A. For details of the efg used see 1973Ek01/1988Al04
+B. Includes estimated Sternheimer correction
+
+69 Tm 153            0           1.48 s        (11/2-)   +0.5(10)    [169Tm]   LRIS   2000Ba16   PR C61 034304 (2000)
+
+69 Tm 154            0            8.1 s          (2-)     +0.4(9)      A       LRIS   2000Ba16   PR C61 034304 (2000)
+69 Tm 154            0+x          3.30 s          (9+)     -0.2(4)      A       LRIS   2000Ba16   PR C61 034304 (2000)
+
+
+
+50
+69 Tm 156             0            1.40 m           2-                -0.48(11)                    A         LRIS    1987AlZb     LINPR 1309 (1987)
+
+69 Tm 158             0            3.98 m           2-                +0.74(11)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+69 Tm 159             0            9.13 m          5/2+                +1.93(7)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+69 Tm 160             0            9.4 m            1-                 +0.58(4)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+69 Tm 161             0            30.2 m          7/2+                +2.90(7)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+69 Tm 162             0            21.7 m           1-                 +0.69(3)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+69 Tm 164             0            2.0 m            1+                 +0.71(5)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+69 Tm 166             0             7.7 h           2+                 +2.14(3)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+69 Tm 168             0            93.1 d           3+                 +3.23(7)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+69 Tm 169             8            4.09 ns         3/2+                -1.2(1)                     B          ME     1964Co08     PR 134 A94 (1964)
+
+69 Tm 170             0           128.6 d           1+                 +0.74(2)                    A         LRIS    1988Al04     NP A477 37 (1988)
+
+Ytterbium   Muonic atom X-ray hyperfine structure
+A. Assumes relation Q(spectroscopic) = 2Q(intrinsic)/7 and Q(intrinsic) 2+ (84 keV) 170Yb = 7.63(9) b.
+
+70 Yb 155             0            1.79 s          (7/2-)              -0.5(3)                  [173Yb]      LRIS    2000Ba16    PR C61 034304 (2000)
+
+70 Yb 159             0            1.67 m          5/2(-)              -0.22(2)                 [173Yb]       CLS    1983Ne13     HFI 15 181 (1983)
+
+70 Yb 161             0            4.2 m           3/2-                +1.03(2)                 [173Yb]       CLS    1983Ne13     HFI 15 181 (1983)
+
+70 Yb 163             0            11.0 m          3/2-                +1.24(2)                 [173Yb]       CLS    1983Ne13     HFI 15 181 (1983)
+
+70 Yb 165             0            9.9 m           5/2-                +2.48(4)                 [173Yb]       CLS    1983Ne13     HFI 15 181 (1983)
+
+70 Yb 167             0            17.5 m          5/2-                +2.70(4)                 [173Yb]       CLS    1983Ne13     HFI 15 181 (1983)
+
+70 Yb 169             0            32.0 d          7/2+                +3.54(6)                 [173Yb]       CLS    1983Ne13     HFI 15 181 (1983)
+
+70 Yb 170             84           1.60 ns          2+                 -2.18(3)                    A                 2001Ra27     ADNDT 78 1 (2001)
+
+70 Yb 171             67           0.79 ns         3/2-                -2.34(7)             [170Yb84keV]    ME     1971Pl03     NP A165 97 (1971)
+70 Yb 171             76           1.64 ns         5/2-                -2.22(7)             [170Yb84keV]    ME     1971Pl03     NP A165 97 (1971)
+
+70 Yb 172             79          1.65 ns            2+                -2.22(4)             [170Yb84keV]     ME     1971Pl03    NP A165 97 (1971)
+70 Yb 172             260          0.122 ns           4+                -2.3(12)                               CER    1970McZQ    ORNL-4513 56 (1970)
+70 Yb 172             1172          8.1 ns            3+                 -2.9(3)             [170Yb84keV]   TDPAC   1970Wa25      ZP A238 35 (1970)
+70 Yb 172             1757             ? ?             (1-)              -3.44(10)                               Mu-X   1979Ho23     PR C20 1934 (1979)
+70 Yb 172             1822             ? ?             (3-)              +1.97(10)                               Mu-X   1979Ho23     PR C20 1934 (1979)
+
+
+
+
+51
+Reference isotope   70 Yb 173            0           stable      5/2-    +2.80(4)                     Mu-X   1975Ze04      NP A254 315 (1975(
+
+70 Yb 174            77         1.79 ns      2+      -2.18(5)    [170Yb84keV]   ME      1971Pl03     NP A165 97 (1971)
+70 Yb 174            253         144 ps       4+      -1.8(12)                     CER    1970McZQ     ORNL-4513 56 (1970)
+
+70 Yb 175            0           4.18 d      7/2-    +3.52(5)       [173Yb]       CLS    2012Fl05    JPhys G39 125101 (2012)
+
+70 Yb 176           82          1.76 ns      2+      -2.28(6)    [170Yb84keV]   ME     1967Ec01      PR 156 246 (1967)
+70 Yb 176           272          0.11 ns      4+      -0.9(12)                     CER    1970McZQ     ORNL-4513 56 (1970)
+70 Yb 176           1050          11.4 s      8-      +5.30(8)       [173Yb]       CLS     2007Bi14     PL B645 330 (2007)
+
+70 Yb 177            0           1.91 h      9/2+    +4.03(6)       [173Yb]       CLS    2012Fl05    JPhys G39 125101 (2012)
+
+Lutetium            Muonic atom X-ray hyperfine structure
+
+71 Lu 162            0          1.37 m        1-    +0.519(8)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 164            0          3.14 m        1-    +0.608(7)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 166           0           2.65 m        6-     +4.33(4)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+71 Lu 166           34          1.41 m        3-     +2.72(2)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 167            0          51.5 m       7/2+    +3.28(2)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 168            0           5.5 m       6-      +4.77(6)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+71 Lu 168            220          6.7 m       3+      +2.43(2)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 169            0           34.1 h      7/2+    +3.48(3)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 171            0           8.24 d      7/2+    +3.53(3)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 172            0           6.70 d       4-     +3.80(4)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+71 Lu 172            42           3.7 m        1-     +0.76(3)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 173            0           1.37 y      7/2+    +3.53(2)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 174            0           3.31 y       1-    +0.773(7)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+71 Lu 174            171          142 d        6-     +4.80(5)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+Reference isotope   71 Lu 175            0           stable      7/2+    +3.49(2)                     Mu-X   1979De29      NP A326 418 (1979)
+
+71 Lu 176            0         3.76x1010 y    7-     +4.92(3)       [175Lu]        A     1985Br09      NP A440 407 (1985)
+71 Lu 176            127          3.66 h       1-    -1.450(12)      [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 177            0           6.65 d      7/2+    +3.39(3)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+71 Lu 177            970          160 d       23/2    +5.71(5)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 178            0          28.4 m       1+     +0.708(10)      [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+71 Lu 178            120         23.1 m       9-      +5.39(10)      [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+71 Lu 179            0           4.59 h      7/2+    +3.32(3)       [175Lu]       CLS    1998Ge13    Eur Phys J A3 225 (1998)
+
+
+
+52
+Hafnium             Muonic atom X-ray hyperfine structure
+
+72 Hf 171             0           12.1 h      7/2+    +3.46(3)       [177Hf]        CLS    2000Ye02   J Phys G26 839 (2000)
+
+72 Hf 175             0            70 d       5/2-    +2.72(2)       [177Hf]        CLS    2002Ni12   PRL 88 094801 (2002)
+
+72 Hf 176            88           1.43 ns      2+     -2.10(2)       [177Hf]       Mu-X    1984Ta10    PR C30 350 (1984)
+
+Reference isotope   72 Hf 177             0           stable      7/2-    +3.37(3)                     Mu-X    1984Ta04    PR C29 1830 (1984)
+72 Hf 177             113          537 ps      9/2-    +1.30(2)       [177Hf]       Mu-X    1984Ta10    PR C30 350 (1984)
+
+72 Hf 178            93           1.49 ns       2+    -2.02(2)       [177Hf]       Mu-X    1984Ta10    PR C30 350 (1984)
+72 Hf 178            1147           4.0 s      23/2-   +4.99(4)       [177Hf]       CLS     2007Bi14    PL B645 330 (2007)
+72 Hf 178            2446           31 y        16+    +6.00(7)       [177Hf]       CLS     1994Bo15    PRL 72 2689 (1994)
+
+Reference isotope   72 Hf 179             0           stable       9/2+   +3.79(3)                     Mu-X    1984Ta04    PR C29 1830 (1984)
+72 Hf 179             123          37 ps       11/2+   +1.88(3)       [177Hf]       Mu-X    1984Ta10    PR C30 350 (1984)
+
+72 Hf 180            93           1.52 ns      2+     -2.00(2)       [177Hf]       Mu-X    1984Ta10    PR C30 350 (1984)
+72 Hf 180            1142          5.53 h       8-     +4.6(3)        [177Hf]       NO/S    1973Ka31     PL B46 62 (1973)
+
+Tantalum            Pionic atom X-ray hyperfine structure
+
+73 Ta 171            184          46 ns       9/2-    (+)3.1(2)      [181Ta]       TDPAD   1995Do32     HFI 96 223 (1995)
+
+73 Ta 173             0           3.14 h      5/2-     -1.8(2)       [181Ta]       NO/S    1983Ed01    PL B133 44 (1983)
+
+73 Ta 175             0           10.5 h      7/2+    +3.5(3)        [181Ta]       NO/S    1983Ed01    PL B133 44 (1983)
+
+73 Ta 178           0+x           9.3 m        1+     +0.63(6)       [181Ta]       NO/S    1983Ha49     HFI 15 105 (1983)
+
+73 Ta 179             0           1.82 y      7/2+    +3.27(4)       [181Ta]        CLS    1996Wa02    PR C53 611 (1996)
+
+73 Ta 180            75         >7.1x1015 y    9-     +4.80(3)       [181Ta]        CLS    1994Wa34    PR C50 4639 (1994)
+
+Reference isotope   73 Ta 181             0          stable       7/2+    +3.17(2)                      Pi-X   1983Ol03   NP A 403 572 (1983)
+73 Ta 181             6          6.05 µs      9/2-    +3.59(2)       [181Ta]        ME     1983Ei02    PL A93 259 (1983)
+73 Ta 181             482         10.8 ns      5/2+    +2.28(2)       [181Ta]        ME     1983Bu11    PL A97 217 (1983)
+
+73 Ta 182             0           115 d        3-     +2.6(3)        [181Ta]       NO/S    1991Fa12    PL A159 421 (1991)
+
+Tungsten            There is no adopted reference efg for W
+A. Efg calculation in Tl metal
+
+74 W 176            3746          41 ns       14+      6.0(8)           A          TDPAD   2002Io01    PL B541 219 (2002)
+
+74 W 179            3348          750 ns      35/2-   +3.9(10)          A          LEMS    2001Ba04    PRL 86 604 (2001)
+
+74 W 180             104          1.28 ns      2+      -2.1(4)    [182W100keV]    ME     1973Zi02    ZP 262 413 (1973)
+
+
+
+
+53
+74 W 182             100          1.32 ns    2+       -2.1(4)                       CER     1977RuZV    BAPS 22 1032 (1977)
+
+74 W 183             47           185 ps     3/2-     -1.8(4)    [182W100keV]     ME      1966Sh07    JPSJ 21 829 (1966)
+74 W 183             99           0.73 ns    5/2-     -2.0(3)    [182W100keV]     ME      1967Ag02    PR 155 1342 (1967)
+1974Ge17     ZP 267 61 (1974)
+
+74 W 184             111          1.25 ns    2+       -1.9(2)    [182W100keV]     CER     1974Ge17     ZP 267 61 (1974)
+1977RuZV    BAPS 22 1032 (1977)
+74 W 184             904          1.80 ps    2+      +0.1(4)                        CER     1977Ob02    NP A291 510 (1977)
+
+74 W 186             123          1.04 ns    2+       -1.6(3)    [182W100keV]     CER     1977RuZV   BAPS 22 1032 (1977)
+74 W 186             396           36 ps     4+      -2.6(13)                       CER     1970McZQ   ORNL-4513 56 (1970)
+74 W 186             737          4.8 ps     2+       1.3(3)                        CER     1977Ob02   NP A291 510 (1977)
+
+Rhenium             Pionic atom X-ray hyperfine structure
+
+"75 Re 182            0             4.2 h     7+      +3.9(3)      [185,187Re]     NO/S/R    1983Ha49    HFI 215 105 (1983)"
+"75 Re 182            0+x           14.1 h     2+      +1.7(2)      [185,187Re]     NO/S/R    1985Ha41     HFI 22 19 (1985)"
+1981Er01    PR C23 1739 (1981)
+
+"75 Re 183             0           70.0 d     5/2+     +2.2(2)     [185,187Re]      NO/S/R   1983Ha49    HFI 215 105 (1983)"
+"75 Re 183             496          7.8 ns     9/2-    (+)3.5(4)    [185,187Re]     TDPAC/R   1978Ne14     HFI 4 211 (1978)"
+
+"75 Re 184             0           35.4 d      3-     +2.6(2)      [185,187Re]     NO/S/R    1983Ha49    HFI 215 105 (1983)"
+
+Reference isotope   75 Re 185             0           stable     5/2+    +2.07(5)                      Mu-X     2020An04   PR C101 054313 (2020)
+
+"75 Re 186             0           3.72 d      1-    +0.583(15)    [185,187Re]      AB/R     1981Bu13    ZP A302 290 (1981)"
+
+Reference isotope   75 Re 187             0         4.3x1010 y   5/2+    +1.94(5)                      Mu-X     2020An04   PR C101 054313 (2020)
+75 Re 187             206         555 ns      9/2-    +2.87(7)       [187Re]       TDPAC/R   1973Ha61     JCP 58 3339 (1973)
+
+"75 Re 188             0           17.0 h      1-    +0.539(13)    [185,187Re]      AB/R     1981Bu13    ZP A302 290 (1981)"
+
+Osmium              Muonic atom X-ray hyperfine structure
+
+76 Os 182           7049          150 ns     25+      4.2(2)     [188Os155keV]   TDPAD     1991Br25     PL B264 17 (1991)
+
+76 Os 183             0           13.0 h     9/2+    +3.1(3)     [188Os155keV]    NO/S     1985Ha41      HFI 22 19 (1985)
+
+76 Os 184            120          1.18 ns    2+      -2.7(12)    [188Os155keV]     CER     1972La16     PR C6 613 (1972)
+
+76 Os 186            137          875 ps     2+      -1.63(4)                      Mu-X     1981Ho22    PR C24 1667 (1981)
+
+Reference isotope   76 Os 188            155          688 ps      2+     -1.46(4)                      Mu-X     1981Ho22    PR C24 1667 (1981)
+76 Os 188            633          9.4 ps      2+     +1.0(3)     [188Os155keV]    CER      1980Ba42    PR C22 2383 (1980)
+76 Os 188            2121             ? ?       (3-)    +1.69(9)                      Mu-X     1979Ho23    PR C20 1934 (1979)
+
+76 Os 189             0           stable     3/2-    +0.86(3)    [188Os155keV]     ME      1972Wa24    ZP A254 112 (1972)
+76 Os 189             70           1.62 ns    5/2-    -0.63(2)    [188Os155keV]     ME      1972Wa24    ZP A254 112 (1972)
+
+
+
+
+54
+76 Os 190             187          375 ps         2+       -1.18(3)                         Mu-X      1981Ho22      PR C24 1667 (1981)
+76 Os 190             558          12.8 ps        2+        +0.8(5)      [188Os155keV]     CER       1980Ba42      PR C22 2383 (1980)
+
+76 Os 191              0            15.4 d       9/2-     +2.53(16)      [188Os155keV]     NO/S      1979Er09      NP A332 41 (1979)
+
+76 Os 192             206          288 ps         2+       -0.96(3)                         Mu-X      1981Ho22      PR C24 1667 (1981)
+76 Os 192             489          32.6 ps        2+        -0.7(3)      [188Os155keV]     CER       1980Ba42      PR C22 2383 (1980)
+
+"76 Os 193              0            30.1 h       3/2-      +0.48(6)      [188Os155keV]    NO/S,R     1985Be03     JPhys G11 287 (1985)"
+1979Er09      NP A332 41 (1979)
+
+Iridium             Muonic atom X-ray hyperfine structure
+A. Estimated efg at Ir in hcp Co metal crystal
+B. Estimated efg at Ir in Os metal polycrystal
+
+77 Ir 182              0            15 m          3+        -1.7(6)          [191Ir]       RIMS/LS    2006Ve10   Eur Phys J A30 489 (2006)
+
+77 Ir 183              0            58 m         5/2-       -1.8(7)          [191Ir]       RIMS/LS    2006Ve10   Eur Phys J A30 489 (2006)
+
+77 Ir 184              0            3.09 h        5-       +2.41(3)            A          QI-NMR/ON   1996Se15      PRL 77 5016 (1996)
+
+77 Ir 185              0            14.4 h       5/2-     -1.84(12)            A          NMR/ON R    1988Oh02    J Phys G 14 365 (1988)
+
+77 Ir 186              0           16.64 h       5+        -2.55(3)            A          QI-NMR/ON   1996Se15      PRL 77 5016 (1996)
+77 Ir 186              0+x           1.90 h       2(-)     +1.456(17)           A          QI-NMR/ON   1996Se15      PRL 77 5016 (1996)
+
+77 Ir 187              0           10.5 h        3/2+     +0.941(11)            A         QI-NMR/ON   1996Se15      PRL 77 5016 (1996)
+77 Ir 187              434          152 ns        11/2-     2.33(14)          [193Ir]         TDPAC    1978HaXO       ARHMI 52 1977
+
+77 Ir 188              0            41.5 h       1(-)     +0.484(6)            A          QI-NMR/ON   1996Se15      PRL 77 5016 (1996)
+
+77 Ir 189              0            13.2 d       3/2+       +0.82(8)         [191Ir]       RIMS/LS    2006Ve10   Eur Phys J A30 489 (2006)
+['+0.878(10)]                    Estimated   1996Se15      PRL 77 5016 (1996)
+
+77 Ir 190              0            11.8 d       (4)+     +2.87(16)            A            NO/S      1980Mu07       HFI 7 481 (1980)
+
+Reference isotope   77 Ir 191              0            stable       3/2+     +0.816(9)                         Mu-X      1984Ta04      PR C29 1830 (1984)
+
+77 Ir 192              0            73.8 d        4-       +2.15(6)            A          QI-NMR/ON   1996Se15      PRL 77 5016 (1996)
+
+77 Ir 193              0            stable       3/2+     +0.751(9)                         Mu-X      1984Ta04      PR C29 1830 (1984)
+
+77 Ir 194              0            19.3 h        1-     +0.339(12)          [191Ir]       NMR/ON     1985Ed02      PR C32 582 (1985)
+
+Platinum            There is no adopted reference efg for Pt.
+A. For details of the efg used see 1992Hi07
+B. Estimated efg at Pt in osmium metal
+
+78 Pt 183             35             43 s        7/2-      +3.4(3)             A             LS       1999Le52    PR C60 054310 (1999)
+1992Hi07      ZP A342 1 (1992)
+
+
+
+
+55
+                    78 Pt 185            0          70.9 m    9/2+    +3.73(17)          A             LS       1999Le52   PR C60 054310 (1999)
+1992Hi07     ZP A342 1 (1992)
+
+78 Pt 187            0           2.35 h   3/2-     -1.02(4)          A           RIMS/LS    1992Hi07     ZP A342 1 (1992)
+1989Du01    PL B217 401 (1989)
+
+78 Pt 189            0           10.9 h   3/2-     -0.95(4)          A           RIMS/LS    1992Hi07     ZP A342 1 (1992)
+1989Du01    PL B217 401 (1989)
+
+78 Pt 191            0           2.83 d   3/2-     -0.87(4)          A           RIMS/LS    1992Hi07     ZP A342 1 (1992)
+1989Du01    PL B217 401 (1989)
+
+78 Pt 192           317         43.7 ps    2+      +0.6(2)                         CER      1987Gy01    NP A470 415 (1987)
+
+78 Pt 194           328         41.8 ps    2+     +0.48(14)                        CER      1986Gy04    NP A458 165 (1986)
+
+78 Pt 195           259          4.01 d   13/2+    +1.4(6)           B            NO/S      1985Ed05    PL B158 371 (1985)
+
+78 Pt 196           356          34 ps     2+     +0.62(8)                         CER      1992Li14    NP A548 308 (1992)
+78 Pt 196           689         33.8 ps    2+     -0.39(16)                        CER      1992Li14    NP A548 308 (1992)
+78 Pt 196           877         3.55 ps    4+     +1.03(12)                        CER      1992Li14    NP A548 308 (1992)
+78 Pt 196           1526         0.98 ps    6+      -0.2(3)                         CER      1992Li14    NP A548 308 (1992)
+
+78 Pt 198           407         22.3 ps    2+     +0.42(12)                        CER      1986Gy04    NP A458 165 (1986)
+
+Gold                Muonic atom X-ray hyperfine structure
+
+79 Au 184            0           20.6 s    5       +4.7(3)        [197Au]          CLS      1997Le22    PRL 79 2213 (1997)
+79 Au 184            0           47.6 s    2      +1.90(16)       [197Au]          CLS      1997Le22    PRL 79 2213 (1997)
+
+"79 Au 185            0          4.25 m    5/2-    -1.10(10)    [186Au,197Au]      CLS      1992Ki30   NIMPR B70 537 (1992)"
+1994Pa37    NP A580 173 (1994)
+
+"79 Au 186            0          10.7 m     3-      +3.10(6)    [186Au,197Au]      CLS      1992Ki30   NIMPR B70 537 (1992)"
+1994Pa37    NP A580 173 (1994)
+
+79 Au 191            0           3.18 h   3/2+     +0.72(2)       [197Au]          CLS      1994Pa37    NP A580 173 (1994)
+
+79 Au 192            0           4.94 h    1-     -0.228(8)       [197Au]          CLS      1994Pa37    NP A580 173 (1994)
+
+79 Au 193            0          17.65 h   3/2+     +0.66(2)       [197Au]         CLS       1994Pa37    NP A580 173 (1994)
+79 Au 193            290          3.9 s    11/2-    +1.98(6)       [197Au]        MAPON      1996Se06    NP A602 41 (1996)
+
+79 Au 194            0           38.0 h    1-     -0.240(9)       [197Au]          CLS      1994Pa37    NP A580 173 (1994)
+
+79 Au 195            0           186 d    3/2+    +0.607(18)      [197Au]       QI-NMR/ON   1993Hi10    NP A562 205 (1993)
+79 Au 195            319          30.5 s   11/2-    +1.87(6)       [197Au]         MAPON     1996Se06    NP A602 41 (1996)
+
+79 Au 196            0           6.17 d    2-      +0.81(7)       [197Au]        NMR/ON     1987Oh11    PR C36 2072 (1987)
+
+Reference isotope   79 Au 197            0           stable   3/2+    +0.547(16)                      Mu-X      1974Po02    NP A230 413 (1974)
+
+
+
+56
+79 Au 197            409            7.73 s        11/2-         +1.68(5)              [197Au]        MAPON     1996Se06       NP A602 41 (1996)
+
+79 Au 198              0           2.694 d         2-          +0.640(19)             [197Au]        NMR/ON    1993Hi10       NP A562 205 (1993)
+
+79 Au 199              0           3.14 d         3/2+         +0.510(16)             [197Au]        NMR/ON    1993Hi10       NP A562 205 (1993)
+
+Mercury             Efg calculations in the 3P1 state of neutral Hg
+
+80 Hg 185             99            21.6 s        13/2+          +0.2(3)              [201Hg]        β-RADOP   1979Da06       PL B82 199 (1979)
+
+80 Hg 187              0            1.9 m         3/2-          -0.75(18)             [201Hg]        β-RADOP   1986Ul02       ZP A325 247(1986)
+1979Da06       PL B82 199 (1979)
+80 Hg 187              0+x            2.4 m         13/2+          +0.5(3)              [201Hg]        β-RADOP   1979Da06       PL B82 199 (1979)
+
+80 Hg 188            2724          134 ns         12+           0.91(11)           [199Hg158keV]   TDPAD     1984Dr09       PL B149 311 (1984)
+
+80 Hg 189              0            7.6 m         3/2-           -0.8(3)              [201Hg]        β-RADOP   1986Ul02       ZP A325 247(1986)
+1979Da06       PL B82 199 (1979)
+80 Hg 189              0+x            8.6 m         13/2+         +0.66(19)             [201Hg]        β-RADOP   1979Da06       PL B82 199 (1979)
+
+80 Hg 190            2621           23 ns         12+           1.17(14)           [199Hg158keV]   TDPAD     1984Dr09       PL B149 311 (1984)
+
+80 Hg 191              0            49 m          3/2-          -0.80(13)             [201Hg]        β-RADOP   1986Ul02       ZP A325 247(1986)
+1979Da06       PL B82 199 (1979)
+80 Hg 191              140           50.8 m         13/2+          +0.6(2)              [201Hg]        β-RADOP   1979Da06       PL B82 199 (1979)
+
+80 Hg 193              0           3.80 h         3/2-           -0.7(3)              [201Hg]          O       1974Fu06       PR A9 593 (1974)
+1966Da07       PR 147 861 (1966)
+80 Hg 193              141           11.8 h         13/2+         +0.92(2)              [201Hg]          O       1974Re05       PR A9 1776 (1974)
+
+80 Hg 195            176           41.6 h         13/2+         +1.08(2)              [201Hg]          O       1965Sm01       PR A137 330 (1965)
+
+80 Hg 197            134           8.1 ns          5/2-         +0.081(6)          [199Hg158keV]   TDPAC     1980He05       NP A337 261 (1980)
+80 Hg 197            299           23.8 h         13/2+          +1.25(3)              [201Hg]         O       1961Br17   J Phys Radium 22 412 (1961)
+
+80 Hg 198            412            23 ps          2+     +0.68(12)or+0.84(12)                       CER     1979Bo16       ZP A291 245 (1979)
+1984Fe08       NP A425 373 (1984)
+
+80 Hg 199            158           2.45 ns         5/2-         +0.95(7)                               Mu-X    1979Ha08       NP A314 361 (1979)
+80 Hg 199            208            69 ps          3/2-         +0.62(15)                              Mu-X    1979Ha08       NP A314 361 (1979)
+80 Hg 199            532           42.6 m         13/2+          +1.2(3)              [201Hg]        β-RADOP   1979Da06        PL B82 199 (1979)
+
+80 Hg 200            368           46.4 ps         2+     +0.96(11)or+1.11(11)                       CER     1979Bo16       ZP A291 245 (1979)
+
+Reference isotope   80 Hg 201              0           stable         3/2-          +0.387(6)                                      2005Bi03      PR A71 012502 (2005)
+1961Ko05       PR 121 1104 (1961)
+
+80 Hg 202            440           27.3 ps         2+     +0.87(13)or+1.01(13)                       CER     1980Sp05       NP A345 252 (1980)
+
+80 Hg 203              0           46.6 d         5/2-          +0.344(7)             [201Hg]          O       1970Re14       PR A2 1135 (1970)
+
+
+
+
+57
+           80 Hg 204            437         40.3 ps             2+              +0.4(2)                          CER    1981Es03     NP A362 227 (1981)
+
+80 Hg 206           2102         2.15 µs             5-             0.74(15)       [199Hg158keV]   TDPAD   1984Ma43      PR C30 1702 (1984)
+
+Thallium   There is no adopted reference efg for Tl.
+A. For reference to the efg used in CLS studies see 1987Bo44 (PR C36 2560 (1987)
+B. Estimated efg in In metal
+
+81 Tl 187            335          15.6 s            (9/2-)          -2.43(5)             A            CLS    1993ScZW   IoP Conf 132 221 (1993)
+
+81 Tl 188           0+x            71 s              7+            +0.129(4)             A            CLS    1992Me07      ZP A341 475 (1992)
+
+81 Tl 189           281           1.4 m             9/2-            -2.29(4)             A            CLS    1987Bo44      PR C36 2560 (1987)
+
+81 Tl 190           0+x           2.6 m              2-             -0.329(9)            A            CLS    1992Me07      ZP A341 475 (1992)
+81 Tl 190           0+y           3.7 m              7+            +0.285(14)            A            CLS    1992Me07      ZP A341 475 (1992)
+
+81 Tl 191           299           5.2 m             9/2-            -2.23(2)             A            CLS    1992Me07      ZP A341 475 (1992)
+
+81 Tl 192           0+x            9.6 m             2-            -0.328(11)            A            CLS    1992Me07      ZP A341 475 (1992)
+81 Tl 192           0+y           10.8 m             7+             +0.46(2)             A            CLS    1992Me07      ZP A341 475 (1992)
+81 Tl 192           251+x        296 ns             8-              0.44(7)             B           TDPAD   1982Sc27       ZP B49 23 (1982)
+
+81 Tl 193           365           2.11 m             9/2-            -2.20(2)             A            CLS    1987Bo44      PR C36 2560 (1987)
+
+81 Tl 194            0            33.0 m             2-             -0.282(7)            A            CLS    1992Me07      ZP A341 475 (1992)
+81 Tl 194            0+y           32.8 m             7+            +0.607(16)            A            CLS    1992Me07      ZP A341 475 (1992)
+
+81 Tl 196            0            1.84 h             2-            -0.178(14)            A            CLS    1992Me07      ZP A341 475 (1992)
+81 Tl 196            394           1.41 h             7+             +0.76(2)             A            CLS    1992Me07      ZP A341 475 (1992)
+
+81 Tl 205            204         1.46 ns             3/2+          +0.74(15)                         Mu-X    1972Ch07      NP A181 25 (1972)
+81 Tl 205            2623            ? ?              (5/2)-          -0.5(2)                          Mu-X    1972Ch07      NP A181 25 (1972)
+
+Lead       Efg in 3P1 state of neutral Pb
+A. Efg in 1D2 state in neutral Pb
+B. Normalised to estimated Q of 206Pb 4027 keV
+C. Obtained from theory of relaxation in Hg metal
+
+82 Pb 191            138          2.18 m            13/2+          +0.085(5)             A            CLS    1991Du07      ZP A341 39 (1991)
+
+82 Pb 192          2581+d        1.09 µs             12+             0.32(4)             B           TDPAD   2007Io03      PL B650 141 (2007)
+82 Pb 192          2743         756 ns              11-             2.9(3)              B           TDPAD   2007Io03      PL B650 141 (2007)
+
+82 Pb 193           100           5.8 m          13/2+             +0.195(10)            A            CLS    1991Du07       ZP A341 39 (1991)
+82 Pb 193           1586+x       20.5 ns        (21/2-)              0.22(2)             B           TDPAD   2004Ba31   Eur Phys J A20 191 (2004)
+82 Pb 193           2585+x        9.4 ns        (27/2-)               2.6(3)             B           TDPAD   2011Ba02     PR C83 014304 (2011)
+82 Pb 193           2585+x        9.4 ns        (29/2-)               2.8(3)             B           TDPAD   2004Ba31   Eur Phys J A20 191 (2004)
+82 Pb 193           2613+x        180 ns        (33/2+)              0.45(4)             B           TDPAD   2004Ba31   Eur Phys J A20 191 (2004)
+
+82 Pb 194           2628          370 ns            (12+)            0.49(3)             B           TDPAD   1985St16      ZP A322 83 (1985)
+
+
+
+58
+                                         2933           133 ns          (11)-      3.6(4)         B           TDPAD       2007Io03     PL B650 141 (2007)
+
+82 Pb 195             203          15.0 m           13/2+    +0.306(15)       A            CLS        1991Du07     ZP A341 39 (1991)
+
+82 Pb 196            2694           270 ns           12+       0.65(5)        B           TDPAD       1981Zy02      HFI 9 109 (1981)
+82 Pb 196            3193           72 ns            11-      (-)3.4(7)       B            LEMS       2002Vy01    PRL 88 102502 (2002)
+
+82 Pb 197              0           8.1 m             3/2-     -0.08(17)                    CLS        1986An06     ZP A451 471 (1986)
+82 Pb 197              319          42.9 m           13/2+    +0.378(19)       A            CLS        1991Du07      ZP A341 39 (1991)
+
+82 Pb 198            2822           212 ns          (12)+     0.75(5)         B           TDPAD       1981Zy02      HFI 9 109 (1981)
+
+82 Pb 199              0            1.5 h           3/2-     +0.08(9)                     CLS        1986An06     ZP A451 471 (1986)
+
+82 Pb 200            2154          45.1 ns           (7-)     0.32(2)         B           TDPAD       1979MaYq    AECL-6680 27 (1979)
+82 Pb 200            2183          448 ns            (9-)     0.40(2)         B           TDPAD       1979MaYq    AECL-6680 27 (1979)
+82 Pb 200            3006          199 ns           (12+      0.79(3)         B           TDPAD       1979Ma37     PL B88 48 (1979)
+
+82 Pb 201             0             9.33 h          5/2-      0.01(4)                      CLS        1986An06    ZP A451 471 (1986)
+82 Pb 201             2720           63 ns           25/2-     0.46(2)         B           TDPAD       1979MaYq    AECL-6680 27 (1979)
+
+82 Pb 202            2170           3.54 h           9-       +0.58(9)                     CLS        1986An06    ZP A451 471 (1986)
+82 Pb 202            2208           65 ns            7-        0.28(2)        B           TDPAD       1979MaYq    AECL-6680 27 (1979)
+
+82 Pb 203             0             51.9 h           5/2-     +0.10(5)                     CLS        1986An06    ZP A451 471 (1986)
+82 Pb 203             1922           42 ns           21/2+      0.85(3)        B           TDPAD       1979MaYq    AECL-6680 27 (1979)
+
+82 Pb 204             899          2.88 ps           2+       +0.23(9)                     CER         1978Jo04    PL B72 307 (1978)
+82 Pb 204             1274          265 ns            4+       0.44(2)         B           TDPAD       1979MaYq    AECL-6680 27 (1979)
+
+82 Pb 205             0           1.73x107 y         5/2-     +0.23(4)                     CLS        1986An06    ZP A451 471 (1986)
+82 Pb 205             1014          5.55 ms          13/2+      0.30(5)        C            QIR         1974Ri03    PS 11 228 (1975)
+82 Pb 205             3196           217 ns          25/2-      0.63(3)        B           TDPAD       1979MaYq    AECL-6680 27 (1979)
+
+82 Pb 206             803           8.3 ps            2+      +0.05(9)                      CER        1978Jo04    PL B72 307 (1978)
+82 Pb 206             2200           125 µs            7-       0.33(5)        C             QIR        1974Ri03    PS 11 228 (1975)
+82 Pb 206             4027           202 ns           12+      [0.51(2)]   from B(E2)   not measured   1979Ma37     PL B88 48 (1979)
+
+82 Pb 208            2615          16.7 ps           3-      -0.34(15)                     CER        1984Ve07     AuJP 37 123 (1984)
+82 Pb 208            4086          0.80 fs            2+       -0.7(3)                      CER        1984Ve07     AuJP 37 123 (1984)
+
+Reference isotope   82 Pb 209              0            3.23 h          9/2+     -0.27(17)                     CLS        1986An06     ZP A451 471 (1986)
+
+82 Pb 211              0           36.1 m           9/2+      +0.09(6)                     CLS        1986An06     ZP A451 471 (1986)
+
+Bismuth             Efg calculations in the 4P3/2 state of neutral Bi                                                     2001Bi23    PRL 87 133003 (2001)
+
+83 Bi 193              0            63.6 s          (9/2-)     -2.3(5)     [209Bi]         ISLS       2016Ba42    PR C94 024334 (2016)
+
+83 Bi 195              0            183 s           (9/2-)     -1.7(6)     [209Bi]         ISLS       2016Ba42    PR C94 024334 (2016)
+
+
+
+
+59
+                    83 Bi 197             0          9.33 m          (9/2-)             -1.7(10)                 [209Bi]               ISLS          2016Ba42    PR C94 024334 (2016)
+
+83 Bi 202             0           1.71 h          [5+]              -1.00(9)                 [209Bi]               LFRS          1996Ca02     NP A598 61 (1996)
+2001Bi23   PRL 87 133003 (2001)
+83 Bi 202             605+x       3.04 µs          [6+]              -1.21(9)                 [209Bi]               LFRS          1996Ca02     NP A598 61 (1996)
+2001Bi23   PRL 87 133003 (2001)
+83 Bi 202             2597+x        310 ns          10-                0.14(2)                 [209Bi]             TDPAD           1987Ma65      HFI 34 47 (1987)
+83 Bi 202             ??                   ?  ?             17+                0.45(2)                 [209Bi]             TDPAD           1987Ma65      HFI 34 47 (1987)
+
+83 Bi 203             0           11.8 h          9/2-              -0.93(7)                 [209Bi]               LFRS          1996Ca02     NP A598 61 (1996)
+2001Bi23    PRL 87 133003 (2001)
+
+83 Bi 204             0          11.22 h          6+                -0.68(20)                [209Bi]               LFRS          1996Ca02     NP A598 61 (1996)
+2001Bi23    PRL 87 133003 (2001)
+83 Bi 204             806          13.0 ms          10-               0.074(2)                 [209Bi]              LEMS           1991Sc14     PR C43 2560 (1991)
+
+83 Bi 205             0           15.3 d          9/2-              -0.81(3)                 [209Bi]               LRFS          2000Pe30    J Phys G26 1829(2000)
+2001Bi23     PRL 87 133003 (2001)
+83 Bi 206             0          6.243 d          6+                -0.54(4)                 [209Bi]               LRFS          2000Pe30    J Phys G26 1829(2000)
+            1045         0.89 ms                                                                                         2001Bi23     PRL 87 133003 (2001)
+83 Bi 206             ??                ? ?         (10-)              0.057(11)                [209Bi]              LEMS           1991Sc14      PR C43 2560 (1991)
+
+83 Bi 207            0            31.6 y          9/2-              -0.76(2)                 [209Bi]               LRFS          2000Pe30    J Phys G26 1829(2000)
+2101          182 µs                                                                                         2001Bi23     PRL 87 133003 (2001)
+83 Bi 207            ??                ? ?          21/2+              0.051(9)                 [209Bi]              LEMS           1991Sc14      PR C43 2560 (1991)
+
+83 Bi 208             0          3.7x105 y        5+                -0.70(8)                 [209Bi]               LRFS          2000Pe30    J Phys G26 1829(2000)
+2001Bi23     PRL 87 133003 (2001)
+
+Reference isotope   83 Bi 209             0         2.0x1019 y        9/2-             -0.516(15)                                      AB            1970Hu05      PR A1 685 (1970)
+2001Bi23    PRL 87 133003 (2001)
+2001Bi23    2564          15 fs          (9/2)+             +0.15(7)                 [209Bi]              Mu-X           1972Le07     NP A180 14 (1972)
+2001Bi23    2741          9.1 ps         15/2+               0.0(5)                  [209Bi]              Mu-X           1972Le07     NP A180 14 (1972)
+
+83 Bi 210             0           5.01 d           1-               +0.190(6)                [209Bi]               AB            1962Al02       PR 125 256 (1962)
+2001Bi23     PRL 87 133003 (2001)
+83 Bi 210             271          3.0x106 y         9-               -0.66(7)                 [209Bi]               LRFS          2000Pe30    J Phys G26 1829(2000)
+2001Bi23     PRL 87 133003 (2001)
+
+83 Bi 211             0          2.14 m           9/2-               -0.7(3)                [213Br]                LRS           2018Ba03    PR C97 014322 (2018)
+
+83 Bi 212             0          60.6 m           1(-)               +0.1(4)                 [209Bi]               LRFS          2000Pe30    J Phys G26 1829(2000)
+2001Bi23     PRL 87 133003 (2001)
+
+83 Bi 213             0          45.6 m           9/2-              -0.83(5)                 [209Bi]               LRFS          2000Pe30    J Phys G26 1829(2000)
+2001Bi23     PRL 87 133003 (2001)
+
+Polonium            There is no adopted reference efg for Po.
+A. Calculated efg in 5S2 level of Po atom {1991Ko32][1961Ol01] with estimated Sternheimer correction. Ratios to 207Po B value.
+"B. The moments quoted are based on a calculated value for the 1557 keV, 8+, state in 210Po [1991Be03, NPA522 483 (1991)]."
+
+
+
+
+60
+84 Po 193            0           388 ms         (3/2-)              -1.3(3)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+84 Po 193            95          245 ms        (13/2+)              +1.1(5)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+
+84 Po 195            0           4.64 s         (3/2-)              -0.9(3)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+84 Po 195            ¬230         1.92 s        (13/2+)              +1.3(5)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+
+84 Po 197            0            84 s          (3/2-)              -0.4(2)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+84 Po 197            204           32 s         (13/2+)              +1.3(5)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+
+84 Po 198           605             ? ?             2+               +2.1(11)                                      CER           2015Ke06   PR C92 054301 (2015)
+
+84 Po 199            0           5.47 m         (3/2-)             -0.27(15)               [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+84 Po 199            310          4.17 m        (13/2+)              +1.4(4)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+
+84 Po 200           666             ? ?             2+              +0.05(15)                                      CER           2015Ke06   PR C92 054301 (2015)
+84 Po 200           1774          61 ns           8+              (-)1.38(7)                  B                 TDPAD          1987Ma65     HFI 34 47 (1987)
+
+84 Po 201            0           15.6 m          3/2-               +0.1(1)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+84 Po 201            424           9.0 m         13/2+               +1.3(4)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+
+84 Po 202           677            ? ?             2+                 -0.5(9)                                     CER           2015Ke06   PR C92 054301 (2015)
+84 Po 202           1712         110 ns           8+              (-)1.21(16)                 B                 LEMS           1997Ne06    NP A625 668 (1997)
+
+84 Po 203            0           36.7 m          5/2-             +0.17(10)                [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+84 Po 203            642           45 s          13/2+              +1.2(2)                 [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+
+84 Po 204           1639         154 ns           8+               (-)1.14(5)                 B                 TDPAD          1987Ma65     HFI 34 47 (1987)
+
+84 Po 206           1586         232 ns           8+               (-)1.02(4)                 B                 TDPAD          1987Ma65     HFI 34 47 (1987)
+
+Reference isotope   84 Po 207            0           5.80 h          5/2-              +0.28(3)                   A                  LRIS          2014Se07   PR C89 034323 (2014)
+
+84 Po 208           1528         350 ns           8+               (-)0.90(4)                 B                 TDPAD          1987Ma65     HFI 34 47 (1987)
+
+84 Po 209           1473          89 ns         17/2-              (-)0.39(8)                 B                 TDPAD          1983Da01   NP A394 245 (1983)
+
+84 Po 210           1557          99 ns          8+                [-0.55(2)]            from B(E2)         not measured       1991Be03   NP A522 483 (1991)
+84 Po 210           2849         19.6 ns         11-              (-)0.86(11)                B                 TDPAD           1991Be03   NP A522 483 (1991)
+84 Po 210           4372          54 ns          13-               (-)0.90(7)                B                 TDPAD           1991Be03   NP A522 483 (1991)
+84 Po 210           5058         263 ns          16+               (-)1.30(2)                B                 TDPAD           1991Be03   NP A522 483 (1991)
+
+84 Po 211            0           0.516 s         9/2+              -0.77(15)               [207Po]               LRIS          2014Se07   PR C89 034323 (2014)
+
+Astitine            There is no adopted reference efg for At.
+"A. The moments quoted are based on a calculated value for the 1417 keV, 21/2-, state in 211At [1995Ba66 NP A591 104 (1995)]."
+B Calculated efg in atomic ground state of At. (2018Cu02 PR C97 054327 (2018)
+
+85 At 195            33          143 ms         (7/2-)             -2.04(10)                  B                  LRIS          2018Cu02   PR C97 054327 (2018)
+
+85 At 196            0           387 ms          (3+)               -0.6(4)                   B                  LRIS          2018Cu02   PR C97 054327 (2018)
+
+
+
+61
+85 At 197      0     381 ms    (9/2-)      -1.2(6)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 198      0      4.1 s     (3+)       -0.6(3)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+85 At 198      0+x    1.03 s    (10+)       +0.4(3)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 199      0     6.92 s    (9/2-)      -1.0(5)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 200      0      43 s      (3+)       -0.5(5)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+85 At 200      112     47 s      (7+)       -1.0(5)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+85 At 200      344     3.5 s    (10-)       +0.5(4)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 201      0      83 s     (9/2-)      -1.0(5)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 202      0      184 s    (3+)        -0.5(3)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+85 At 202      0+x     182 s    (7+)        -0.7(3)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 203      0     7.4 m     (9/2-)      -0.7(4)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 204      0     9.1 m      7+         -0.6(3)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 205      0     26.9 m    9/2-        -0.6(3)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 206      0     30.6 m    (6+)        -0.4(2)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+85 At 206       ??    ? ?        (5+)        -0.3(2)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 207      0     1.81 h    9/2-        -0.5(3)           B            LRIS       2018Cu02   PR C97 054327 (2018)
+
+85 At 208       0    1.63 h     6+          -0.4(3)          B            LRIS       2018Cu02   PR C97 054327 (2018)
+85 At 208       1090   48 ns      10-      (-)1.67(18)         A           LEMS        1991Sc15    PR C43 2566 (1991)
+
+85 At 209      0     5.42 h     9/2-        -0.4(2)          B            LRIS       2018Cu02   PR C97 054327 (2018)
+85 At 209      1428   26 ns     21/2-      (-)0.78(6)         A           TDPAD       1983Ma08     PL B122 27 (1983)
+85 At 209      2429   890 ns    29/2+      (-)1.49(9)         A           TDPAD       1983Ma08     PL B122 27 (1983)
+
+85 At 210       0     8.1 h    (5)+         -0.4(2)          B             LRIS      2018Cu02   PR C97 054327 (2018)
+85 At 210       1363   24.8 ns   11+        (-)0.64(5)         A           TDPAD       1983Ma08     PL B122 27 (1983)
+85 At 210       2550   482 ns    15-        (-)1.21(7)         A           TDPAD       1983Ma08     PL B122 27 (1983)
+85 At 210       4028   5.66 µs   19+       (-)2.16(18)         A            LEMS       1991Sc15    PR C43 2566 (1991)
+
+85 At 211     1417   35.1 ns   21/2-    [(-)0.524(10)]   from B(E2)   not measured   1995Ba66   NP A591 104 (1996)
+85 At 211     2641   50.8 ns   29/2+       (-)1.01(7)        A           TDPAD       1983Ma08    PL B122 27 (1983)
+85 At 211     4815   4.2 µs    39/2-      (-)1.88(19)        A            LEMS       1991Sc15   PR C43 2566 (1991)
+
+85 At 217    0     32.3 ms   (9/2-)     -1.40(8)           B            ISLS       2019Ba22   PR C99 054317 (2019)
+
+"85 At 218    0      1.5 s    (2,3)       +0.6(4)           B            ISLS       2019Ba22   PR C99 054317 (2019)"
+
+85 At 219    0      56 s     (9/2-)     -1.17(6)           B            ISLS       2019Ba22   PR C99 054317 (2019)
+
+
+
+
+62
+Radon      Estimated efg in Rn atom                                                                                                    [CERN EP/87 51 (1987)]
+"A. Normalised to Q of 1694 keV, 8+ state in 212Rn estimated from B(E2)."
+
+86 Rn 203            362          26.9 s         (13/2+)              +1.28(13)     209Rn            CLS         1987OtZW   CERN EP/87 51 (1987)
+
+86 Rn 205             0           2.83 m          5/2-                +0.062(6)     209Rn            CLS         1987OtZW   CERN EP/87 51 (1987)
+
+86 Rn 207             0           9.3 m           5/2-                 +0.22(2)     209Rn            CLS         1987OtZW   CERN EP/87 51 (1987)
+
+86 Rn 208           1828          487 ns           8+                  0.41(5)         A           TDPAD         1986Be40     PL B182 11 (1986)
+
+86 Rn 209             0           28.8 m          5/2-                 +0.31(3)                 efg in Rn atom   1987OtZW   CERN EP/87 51 (1987)
+
+86 Rn 210          1665+x         644 ns          (8+)                 0.32(4)         A           TDPAD         1986Be40     PL B182 11 (1986)
+86 Rn 210          3812+x         1.06 µs         (17)-                0.89(10)        A           TDPAD         1986Be40     PL B182 11 (1986)
+
+86 Rn 211         1578+x          596 ns          17/2-                0.19(2)         A           TDPAD         1985Da14    PRL 55 1269 (1985)
+86 Rn 211         8856+y        201 ns          63/2-                 1.6(2)         A           TDPAD         1985Da14    PRL 55 1269 (1985)
+
+86 Rn 212           1694         0.91 ms           8+                 [-0.18(2)]   from B(E2)   not measured     1985Da13    NP A441 501 (1985)
+
+86 Rn 219             0           3.96 s          5/2+                +1.15(12)     209Rn            CLS         1987OtZW   CERN EP/87 51 (1987)
+
+86 Rn 221             0            25 m           7/2+                 -0.47(5)     209Rn            CLS         1987OtZW   CERN EP/87 51 (1987)
+
+86 Rn 223             0           24.3 m          7/2                  +0.80(8)     209Rn            CLS         1988NeZZ   Bk88 NFFS 126 (1988)
+
+86 Rn 225             0           4.66 m          7/2-                 +0.84(8)     209Rn            CLS         1988NeZZ   Bk88 NFFS 126 (1988)
+
+Francium   A. Efg calculated in the 7p 2P3/2 state of the Fr atom.                                                                     PR A92 052506(2015)
+B. Efg calculated in the 8p 2P3/2 state of the Fr atom.                                                                     PR A92 052506(2015)
+C. Normalised to calculated Q of the 2538 keV 29/2+ state in 211Fr.
+
+87 Fr 203             0           0.55 s         (9/2-)                -0.47(2)        B             CLS         2017Wi11   PR C96 034317 (2017)
+
+87 Fr 204              0           1.8 s           (3+)                -0.141(9)       A             CLS         2015Vo05   PR C91 044307 (2015)
+87 Fr 204              41           1.6 s           (7+)               -0.613(17)       A             CLS         2015Vo05   PR C91 044307 (2015)
+87 Fr 204              316           0.8 s          (10+)                +1.39(3)        A             CLS         2015Vo05   PR C91 044307 (2015)
+
+87 Fr 205             0            3.9 s         (9/2-)               -0.305(18)       B             CLS         2016Ly01   PR C93 014319 (2016)
+
+87 Fr 206             0            16 s            3+                  -0.354(9)       B             CLS         2016Ly01   PR C93 014319 (2016)
+87 Fr 206             95-x         16 s           7(+)                -0.143(11)       B             CLS         2016Ly01   PR C93 014319 (2016)
+87 Fr 206             672-x         0.7 s          10(-)                +1.26(3)        B             CLS         2016Ly01   PR C93 014319 (2016)
+
+87 Fr 207             0           14.8 s          9/2-                 -0.24(2)        B             CLS         2017Wi11   PR C96 034317 (2017)
+
+87 Fr 208             0            59.1 s           7+                 +0.052(11)       A             CLS         2015Vo05   PR C91 044307 (2015)
+
+87 Fr 209             0           50.5 s          9/2-                 -0.26(2)        A            ABLS         1985Co24     PL B163 66 (1985)
+
+
+
+63
+                    87 Fr 210             0           3.18 m          6+         +0.21(2)         A           ABLS        1985Co24       PL B163 66 (1985)
+
+87 Fr 211             0           3.10 m          9/2-        -0.21(2)        A           ABLS        1985Co24       PL B163 66 (1985)
+87 Fr 211             2423          146 ns         29/2+      (-)1.07(18)       C           LEMS        1991Ha02       PR C43 514 (1991)
+87 Fr 211             4657          123 ns         45/2-        (-)2.0(6)       C           LEMS        1991Ha02       PR C43 514 (1991)
+
+87 Fr 212            0            20.0 m          5+         -0.100(2)        A            CLS        1987Du13   Europhys Lett 3 175 (1987)
+87 Fr 212            2492          604 ns         (15-)      (-)0.84(13)       C           TDPAD       1990By03      NP A516 145 (1990)
+87 Fr 212            5854          312 ns         (27-)        (-)1.7(3)       C           TDPAD       1990By03      NP A516 145 (1990)
+
+87 Fr 213            0            34.8 s          9/2-      -0.138(3)         A             CLS       1987Du13   Europhys Lett 3 175 (1987)
+87 Fr 213            2538          238 ns         29/2+      [-0.70(7)]    calculated   not measured   1990By03      NP A516 145 (1990)
+87 Fr 213            8095          3.1 µs         65/2-       (-)2.2(5)        C            LEMS       1991Ha02       PR C43 514 (1991)
+
+87 Fr 214            638          103 ns          11+         0.8(2)          C           LEMS        1995Ne06      PR C51 3483 (1995)
+87 Fr 214            6447+y       108 ns       32+or33+     2.2(5)          C           LEMS        1995Ne06      PR C51 3483 (1995)
+
+87 Fr 219             0           22.5 ms         5/2-       -1.19(2)         A            CLS        2015De28     PRL 115 132501 (2015)
+
+87 Fr 220             0            27.4 s         1+        +0.487(8)         A            CLS        1987Du13   Europhys Lett 3 175 (1987)
+
+87 Fr 221             0            4.9 m          5/2-       -1.02(3)         A            CLS        2015De28     PRL 115 132501 (2015)
+
+87 Fr 222             0           14.2 m           2-        +0.51(4)         A           ABLS        1985Co24       PL B163 66 (1985)
+
+87 Fr 223             0           22.0 m         3/2(-)      +1.18(2)         A           ABLS        1985Co24       PL B163 66 (1985)
+
+87 Fr 224             0            3.3 m          1(-)      +0.523(9)         A           ABLS        1985Co24       PL B163 66 (1985)
+
+87 Fr 225             0           3.95 m          3/2-       +1.33(2)         A           ABLS        1985Co24       PL B163 66 (1985)
+1987Co19       NP A468 1 (1987)
+
+87 Fr 226             0             49 s           1         -1.37(3)         A           ABLS        1985Co24       PL B163 66 (1985)
+
+87 Fr 228             0             38 s           2-        +2.41(6)         A           ABLS        1985Co24       PL B163 66 (1985)
+
+Radium              Efg calculated in 7s7p states of the Ra atom
+
+88 Ra 209             0            4.8 s          5/2-       +0.39(4)      223Ra           CLS        1989Ne03       ZP D11 105 (1989)
+
+88 Ra 211             0             13 s           5/2-       +0.46(4)      223Ra           CLS        1989Ne03       ZP D11 105 (1989)
+
+88 Ra 221             0             28 s          5/2-       +1.92(6)      223Ra           CLS        1989Ne03       ZP D11 105 (1989)
+
+Reference isotope   88 Ra 223             0           11.43 d        3/2+        +1.22(3)                      CLS        2008Py02   Mol Phys 106 1965 (2008)
+2018Ly01    PR C97 024309 (2018)
+88 Ra 227             0           42.2 m         3/2+        +1.53(6)      223Ra           CLS        1989Ne03      ZP D11 105 (1989)
+
+88 Ra 229             0            4.0 m         5/2(+)     +2.99(12)      223Ra           CLS        1989Ne03       ZP D11 105 (1989)
+
+
+
+
+64
+Actinium            Calculated efg in states in the Ac atom                                                         2017Fe10   Nat Commun 8 14520 (2017)
+
+89 Ac 214              0             8.3 s      5+     +0.14(8)                     IGLIS       2017Gr18      PR C96 054331 (2017)
+
+89 Ac 215              0            0.17 s      9/2-   +0.04(10)                    IGLIS       2017Gr18      PR C96 054331 (2017)
+
+89 Ac 227              0            21.77 y     3/2-   +1.74(10)                     O/R        1955Fr26    PR 98 1514 and 111 1747/
+2017Fe10   Nat Commun 8 14520 (2017)
+
+Thorium             Efg calculated in states of Th 3+ ions                                                          2013Sa69     PR A88 060501 (2013)
+
+90 Th 229              0            7880 y      5/2+   +3.11(6)         A             O         2011Ca17     PRL 106 223001 (2011)
+
+Protoactinium       There is no adopted reference efg for Pa.
+A. Estimated from B(E2) value.
+B. Based on estimated efg in the Pr atom
+
+4
+91 Pa 231             0            3.3x104 y     3/2-   [-1.72(5)]   from B(E2)   not measured   1978Fr28       PL A69 225 (1975)
+91 Pa 231             84            45.1 ns     5/2+    +0.7(2)       231Pa           ME        1978Fr28       PL A69 225 (1975)
+
+91 Pa 233              0            27.0 d      3/2-    -3.0(4)         B            AB         1961Ma42        NP 23 90 (1961)
+
+Uranium             Muonic atom X-ray hyperfine structure
+
+Reference isotope   92 U 233              0            1.6x105 y    5/2+   +3.663(8)                    Mu-X        1984Zu02       PRL 53 1888 (1984)
+92 U 233              40            0.11 ns     7/2+    +0.64(3)                    Mu-X        1984Zu02       PRL 53 1888 (1984)
+
+Reference isotope   92 U 235              0            7.0x108 y    7/2-   +4.936(6)                    Mu-X        1984Zu02       PRL 53 1888 (1984)
+92 U 235              46            ¬14 ps     9/2-    +1.87(3)                    Mu-X        1984Zu02       PRL 53 1888 (1984)
+
+Neptunium           Muonic atom X-ray hyperfine structure
+
+Reference isotope   93 Np 237             0            2.1x106 y    5/2+   +3.886(6)                    Mu-X        1987De10        PL B189 7 (1987)
+93 Np 237             60             67 ns      5/2-    +3.85(4)     237Np           ME         1968Pi01       BAPS 13 28 (1968)
+1968St03       PR 165 1319 (1968)
+Plutonium           Muonic atom X-ray hyperfine structure
+A. Calculated efg of the 8F3/2 state of Pu II
+
+Reference isotope   94 Pu 239              8            36 ps       3/2+    -2.319(7)                   Mu-X        1986Zu01       PL B167 383 (1986)
+94 Pu 239              57            101 ps      5/2+   -3.345(13)                   Mu-X        1986Zu01       PL B167 383 (1986)
+94 Pu 239              76            111 ps      7/2+     -3.83(3)                   Mu-X        1986Zu01       PL B167 383 (1986)
+
+94 Pu 241              0            14.3 y      5/2+     +6(2)          A             O         1964Ch12       JPPa 25 825 (1964)
+
+Americium           Muonic atom X-ray hyperfine structure
+
+Reference isotope   95 Am 241              0            432.6 y     5/2-   +4.34(5)                     Mu-X        1985Jo04       PL B161 75 (1985)
+
+95 Am 242             0             16.0 h       1-    -2.44(3)     241Am           AB         1966Ar04        PR 144 994 (1966)
+95 Am 242             49            152 y        5-     +6.7(4)      241Am          ABLS        1988Be30       ZP A330 235 (1988)
+
+
+
+65
+95 Am 243              0          7364 y         5/2-     +4.32(6)           Mu-X   1985Jo04     PL B161 75 (1985)
+95 Am 243              84          2.3 ns         5/2+      +4.2(2)   241Am    ME    1976Bo13    JINC 38 1291 (1976)
+
+Einsteinium         Efg calculated in the Es atom
+
+Reference isotope   99 Es 253             0            20.5 d        7/2+     +6.7(8)            AB     1975Go05     PR A11 499 (1975)
+
+Reference isotope   99 Es 254             84           39.3 h         2+      +3.7(5)            AB     1975Go05     PR A11 499 (1975)
+
+Nobelium            Efg calculated in the 1P1 level of the No atom
+
+102 No 253          0           1.62 m         (9/2-)   +5.9(17)           CLS    2018Ra11   PRL 120 232503 (2018)
+
+
+
+
+66
+
