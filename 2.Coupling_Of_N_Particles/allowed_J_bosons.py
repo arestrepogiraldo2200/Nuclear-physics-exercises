@@ -1,4 +1,6 @@
 import numpy as np
+from collections import Counter
+
 
 print("\n↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑")
 print("This program computes the allowed angular momentum values of N identical bosons in a j-orbital using the m-scheme.")
@@ -64,9 +66,14 @@ def result():
     for i in J:
         array_result.append(str(i))
 
+    array_result_mult = [[item, count] for item, count in Counter(array_result).items()]
+    
     print("The allowed total angular momentum values are: ", end = '')
-    for i in array_result:
-        print(i, "  ", end = '') 
+    for i in array_result_mult:
+        if i[1]>1:
+            print(i[0]+"^"+str(i[1]) , "  ", end = '') 
+        else:
+            print(i[0], "  ", end = '')  
     print("")
 
 result()
